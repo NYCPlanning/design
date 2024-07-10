@@ -1,4 +1,4 @@
-# Streetscape Installation Guide
+# Streetscape Storybook Installation Guide
 
 This is a guide on the steps to install and run Streetscape, DCP’s digital design system on a [Storybook](https://storybook.js.org/) website. The current instructions are catered to MacOS and for those unfamiliar with using the command line.  
 
