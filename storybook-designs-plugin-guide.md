@@ -9,6 +9,6 @@ The Storybook Designs plug-in allows us to embedd figma files into Storybook com
 
 Designs assigns the embedded Figma file into a Design section within the Add-ons portion of the Storybook page.
 
-![alt-text]()
+![alt-text](https://github.com/NYCPlanning/design/blob/designs-plugin/assets/designsection.gif)
 
 
