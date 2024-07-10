@@ -14,5 +14,5 @@ Designs assigns the embedded Figma file into a Design section within the Add-ons
 Within this Design section, there are a couple useful features:
 - figspec allows you to inspect figma components for their css elements 
 
-![alt-text]()
+![alt-text](https://github.com/NYCPlanning/design/blob/designs-plugin/assets/figspec.gif)
 
