@@ -24,7 +24,7 @@ Designs assigns the embedded Figma file into a Design section within the Add-ons
 > Not only can you have Figma components, you can have live prototypes.
 <div style="width:20%; margin: auto;">
 
-![alt-text](hhttps://github.com/NYCPlanning/design/blob/designs-plugin/assets/storybook-designs/figmaprototype.gif)
+![alt-text](https://github.com/NYCPlanning/design/blob/designs-plugin/assets/storybook-designs/figmaprototype.gif)
 
 </div>
 
