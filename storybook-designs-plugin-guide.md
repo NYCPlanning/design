@@ -23,7 +23,7 @@ Within this Design section, there are a couple useful features:
 > Not only can you have wireframes or components, you can have live prototypes.
 <div style="width:20%; margin: auto;">
 
-![alt-text]()
+![alt-text](https://github.com/NYCPlanning/design/blob/designs-plugin/assets/figmaprototype.gif)
 
 </div>
 
