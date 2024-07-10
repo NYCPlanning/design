@@ -73,11 +73,11 @@ The type of link you put in the url field will impact what is seen in the embedd
 
 > To link a specific Figma component, select to component in Figma. Please make sure to copy using copy link to selection.
 
-![alt-text]()
+![alt-text](https://github.com/NYCPlanning/design/blob/designs-plugin/assets/selectingfigmacomponent.png)
 
 > To link a live prototype, the link must be from the prototype in presentation mode. Go to your respective prototype page on figma and click the play button to launch presentation mode. Next, go to share and copy the figma url.
 
-![alt-text]()
+![alt-text](https://github.com/NYCPlanning/design/blob/designs-plugin/assets/selectingprototype.png)
 
 ### Optional: Using Figspec
 
