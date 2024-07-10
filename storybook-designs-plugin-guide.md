@@ -10,21 +10,21 @@ The Storybook Designs plug-in allows us to embedd figma files into Storybook com
 
 Designs assigns the embedded Figma file into a Design section within the Add-ons portion of the Storybook page. Here we have a Figma component assigned to a Storybook component.
 
-![alt-text](https://github.com/NYCPlanning/design/blob/designs-plugin/assets/designsection.gif)
+![alt-text](https://github.com/NYCPlanning/design/blob/designs-plugin/assets/storybook-designs/designsection.gif)
 
 ### Within this Design section, there are a couple useful features
 
 > Figspec allows you to inspect figma components for their css elements.
 <div style="width:20%; margin: auto;">
 
-![alt-text](https://github.com/NYCPlanning/design/blob/designs-plugin/assets/figspec.gif)
+![alt-text](https://github.com/NYCPlanning/design/blob/designs-plugin/assets/storybook-designs/figspec.gif)
 
 </div>
 
 > Not only can you have Figma components, you can have live prototypes.
 <div style="width:20%; margin: auto;">
 
-![alt-text](https://github.com/NYCPlanning/design/blob/designs-plugin/assets/figmaprototype.gif)
+![alt-text](hhttps://github.com/NYCPlanning/design/blob/designs-plugin/assets/storybook-designs/figmaprototype.gif)
 
 </div>
 
@@ -73,11 +73,11 @@ The type of link you put in the url field will impact what is seen in the embedd
 
 > To link a specific Figma component, select to component in Figma. Please make sure to copy using copy link to selection.
 
-![alt-text](https://github.com/NYCPlanning/design/blob/designs-plugin/assets/selectingfigmacomponent.png)
+![alt-text](https://github.com/NYCPlanning/design/blob/designs-plugin/assets/storybook-designs/selectingfigmacomponent.png)
 
 > To link a live prototype, the link must be from the prototype in presentation mode. Go to your respective prototype page on figma and click the play button to launch presentation mode. Next, go to share and copy the figma url.
 
-![alt-text](https://github.com/NYCPlanning/design/blob/designs-plugin/assets/selectingprototype.png)
+![alt-text](https://github.com/NYCPlanning/design/blob/designs-plugin/assets/storybook-designs/selectingprototype.png)
 
 ### Optional: Using Figspec
 
