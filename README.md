@@ -12,7 +12,7 @@ Files that live in the `design` repo.
 
 - [Storybook Designs Plug-In Guide](https://github.com/NYCPlanning/design/blob/main/storybook-designs-plugin-guide.md)
 
-### In Streetscape + Figma
+### In Figma
 
 Refer to the Getting Started for an overview on how Figma is used for Streetscape. 
 
