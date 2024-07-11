@@ -101,3 +101,5 @@ In `ae-streetscape`, there is a file called `sample.env', this is where we will 
     STORYBOOK_FIGMA_ACCESS_TOKEN=paste-figma-access-token-here
 
 When you run Storybook locally, be sure to change your `sample.env` file to `.env`.
+
+Those are the steps to use the Designs plug-in for Storybook! To run Storybook locally, run the command `npm run dev`.
