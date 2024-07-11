@@ -4,14 +4,22 @@ A repository for the Design team in the Geographic Data and Engineering team of 
 
 ## Table of Contents
 
+### In this `design` repo
+
 - [Streetscape + Storybook Installation Guide](https://github.com/NYCPlanning/design/blob/main/streetscape-storybook-installation-guide.md)
 - [Storybook Designs Plug-In Guide](https://github.com/NYCPlanning/design/blob/main/storybook-designs-plugin-guide.md)
+
+### In Streetscape + Figma
+
+- [Streetscape: Getting Started](https://www.figma.com/design/mfEZjCGYOX49VKyptVDLG6/Getting-Started?node-id=0-1&t=NCfWTwVqMCMt1hen-1)
 
 ## Guidelines for Documentation in `design`
 
 TBD
 
 ## Design Glossary
+
+todo: diagram to show design system and the different things that make it up
 
 **Design System** - A set of building blocks and standards that help keep the look and feel of products and experiences consistent.
 
