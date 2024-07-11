@@ -46,4 +46,4 @@ TBD
 
 **Story** - A Storybook Component contains a set of stories. A story is a interactive state of a component. (i.e. a button can have three stories, one where the button is inactive, when a user hovers, and when the button is activated).
 
-![alt text](image-1.png)
+![alt text](assets/readme/image-1.png)
