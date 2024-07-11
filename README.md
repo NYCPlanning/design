@@ -18,16 +18,6 @@ Refer to the Getting Started for an overview on how Figma is used for Streetscap
 
 - [Streetscape: Getting Started](https://www.figma.com/design/mfEZjCGYOX49VKyptVDLG6/Getting-Started?node-id=0-1&t=NCfWTwVqMCMt1hen-1)
 
-## Guidelines for Documentation in `design`
-
-TBD
-<!--- todo:
-    - creating or going into an existing branch to edit doc
-    - what md flavor we follow
-    - how to insert images/media files
-    - useful extentsions to add 
- -->
-
 ## Design Glossary
 
 **Design System** - A set of building blocks and standards that help keep the look and feel of products and experiences consistent.
@@ -44,6 +34,16 @@ TBD
 
 **Storybook Component** - Elements in Storybook that can be reused across implementation.
 
-**Story** - A Storybook Component contains a set of stories. A story is a interactive state of a component. (i.e. a button can have three stories, one where the button is inactive, when a user hovers, and when the button is activated).
+**Story** -  An interactive state of a Storybook Component. A Storybook Component contains a set of stories (i.e. a button can have three stories: one where the button is inactive, when a user hovers, and when the button is activated).
 
 ![alt text](assets/readme/image-1.png)
+
+## Guidelines for Documentation in `design`
+
+TBD
+<!--- todo:
+    - creating or going into an existing branch to edit doc
+    - what md flavor we follow
+    - how to insert images/media files
+    - useful extentsions to add 
+ -->
