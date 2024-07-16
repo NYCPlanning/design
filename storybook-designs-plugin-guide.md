@@ -67,7 +67,7 @@ To add the Figma component to a story, choose the respective story within your `
     };
 
 > [!NOTE]
-> Notice that for the `type`, we default to `figma`. If you would like to use the figspec feature, that type needs to be changed to `figspec`. More steps for figspec is explained in [Optional: Using Figspec](#optional-using-figspec).
+> Notice that for the `type`, we default to `figma`. If you would like to use the figspec feature, that type needs to be changed to `figspec`. More steps for figspec are explained in [Optional: Using Figspec](#optional-using-figspec).
 
 ### 3. Choosing a Figma component
 
