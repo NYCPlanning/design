@@ -7,9 +7,9 @@ This is a guide on how to implement the Storybook Designs plug-in for Streetscap
 
 ## What does the Storybook Designs plug-in do?
 
-The Storybook Designs plug-in allows us to embedd figma files into Storybook components. Therefore, when designers create changes to Figma files, it should reflect the new changes within the corresponding Figma file that is embedded to its respective Storybook component. This helps bridge the gap between design and implementation as it is easier to see visually what updated Figma components correspond with their Storybook counterpart.
+The Storybook Designs plug-in allows us to embed figma files into Storybook components. Therefore, when designers create changes to Figma files, it should reflect the new changes within the corresponding Figma file that is embedded to its respective Storybook component. This helps bridge the gap between design and implementation as it is easier to see visually what updated Figma components correspond with their Storybook counterpart.
 
-Designs assigns the embedded Figma file into a Design section within the Add-ons portion of the Storybook page. Here we have a Figma component assigned to a Storybook component.
+The Designs plug-in assigns the embedded Figma file into a Design section within the Add-ons portion of the Storybook page. Here we have a Figma component assigned to a Storybook component.
 
 ![alt-text](https://github.com/NYCPlanning/design/blob/designs-plugin/assets/storybook-designs/designsection.gif)
 
@@ -43,7 +43,7 @@ These steps are based of documentation for [Designs v7.0.9](https://github.com/s
 
 ### 2. Check to see if plug-in is registered in `main.ts`
 
-There should already be `"@storybook/addon-designs"` tag in `addon` parameter of your `main.ts` file. if not, add the tag in the same format as the other addons.
+There should already be `"@storybook/addon-designs"` tag in `addon` parameter of your `main.ts` file. If not, add the tag in the same format as the other addons.
 
 ## Adding an Embedded Figma File to a Storybook Component
 
@@ -55,7 +55,7 @@ Within `ae-streetscape`, traverse down to the `components` folder from `src`. Th
 
 ### 2. Adding the `design` parameter to a story
 
-To add the figma component to a story, choose the respective story within your `nameofcomponent.stories.tsx` and add the following:
+To add the Figma component to a story, choose the respective story within your `nameofcomponent.stories.tsx` and add the following:
 
     export const NameofStory: Story = {
         parameters: {
@@ -66,7 +66,8 @@ To add the figma component to a story, choose the respective story within your `
         },
     };
 
-Notice that for the `type`, we default to `figma`. If you would like to use the figspec feature, that type needs to be changed to `figspec`. More steps for figspec will be explained further down.
+> [!NOTE]
+> Notice that for the `type`, we default to `figma`. If you would like to use the figspec feature, that type needs to be changed to `figspec`. More steps for figspec is explained in [Optional: Using Figspec](#optional-using-figspec).
 
 ### 3. Choosing a Figma component
 
