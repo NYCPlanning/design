@@ -2,13 +2,14 @@
 
 This is a guide on how to implement the Storybook Designs plug-in for Streetscape. The current instructions are only compatiable for Storybook version 7.x.x or below.
 
-Need help to install Streetscape + Storybook? Refer to the [Streetscape Storybook Installation Guide](https://github.com/NYCPlanning/design/blob/main/streetscape-storybook-installation-guide.md).
+> [!TIP]
+>  Need help to install Streetscape + Storybook? Refer to the [Streetscape Storybook Installation Guide](https://github.com/NYCPlanning/design/blob/main/streetscape-storybook-installation-guide.md).
 
 ## What does the Storybook Designs plug-in do?
 
-The Storybook Designs plug-in allows us to embedd figma files into Storybook components. Therefore, when designers create changes to Figma files, it should reflect the new changes within the corresponding Figma file that is embeddeed to its respective Storybook component. This helps bridge the gap between design and implementation as it is easier to see visually what updated Figma components correspond with their Storybook counterpart.
+The Storybook Designs plug-in allows us to embed figma files into Storybook components. Therefore, when designers create changes to Figma files, it should reflect the new changes within the corresponding Figma file that is embedded to its respective Storybook component. This helps bridge the gap between design and implementation as it is easier to see visually what updated Figma components correspond with their Storybook counterpart.
 
-Designs assigns the embedded Figma file into a Design section within the Add-ons portion of the Storybook page. Here we have a Figma component assigned to a Storybook component.
+The Designs plug-in assigns the embedded Figma file into a Design section within the Add-ons portion of the Storybook page. Here we have a Figma component assigned to a Storybook component.
 
 ![alt-text](https://github.com/NYCPlanning/design/blob/designs-plugin/assets/storybook-designs/designsection.gif)
 
@@ -40,9 +41,9 @@ These steps are based of documentation for [Designs v7.0.9](https://github.com/s
 
     pnpm add -D @storybook/addon-designs
 
-### 2. Check to see if plug-in is registered in `main.tsx`
+### 2. Check to see if plug-in is registered in `main.ts`
 
-There should already be `"@storybook/addon-designs"` tag in `addon` parameter of your `main.tsx` file. if not, add the tag in the same format as the other addons.
+There should already be `"@storybook/addon-designs"` tag in `addon` parameter of your `main.ts` file. If not, add the tag in the same format as the other addons.
 
 ## Adding an Embedded Figma File to a Storybook Component
 
@@ -54,7 +55,7 @@ Within `ae-streetscape`, traverse down to the `components` folder from `src`. Th
 
 ### 2. Adding the `design` parameter to a story
 
-To add the figma component to a story, choose the respective story within your `nameofcomponent.stories.tsx` and add the following:
+To add the Figma component to a story, choose the respective story within your `nameofcomponent.stories.tsx` and add the following:
 
     export const NameofStory: Story = {
         parameters: {
@@ -65,7 +66,8 @@ To add the figma component to a story, choose the respective story within your `
         },
     };
 
-Notice that for the `type`, we default to `figma`. If you would like to use the figspec feature, that type needs to be changed to `figspec`. More steps for figspec will be explained further down.
+> [!NOTE]
+> Notice that for the `type`, we default to `figma`. If you would like to use the figspec feature, that type needs to be changed to `figspec`. More steps for figspec are explained in [Optional: Using Figspec](#optional-using-figspec).
 
 ### 3. Choosing a Figma component
 
@@ -92,9 +94,9 @@ As we stated above, if you would like to use the figspec feature, that type need
         },
     };
 
-Additionally, we need to include your personal figma access token for figspec to work properly. [Follow these instructions from Figma to generate and obtain your token](https://www.figma.com/developers/api#access-tokens).
-
-In `ae-streetscape`, there is a file called `sample.env', this is where we will place our personal access token from figma.
+> [!IMPORTANT]
+> Additionally, we need to include our shared Figma access token for figspec to work properly. To access the token, go to the Design vault on 1Password. The token is located under credential for `Figma personal access token for storybook`.
+> In `ae-streetscape`, there is a file called `sample.env`, this is where we will place our personal access token from figma.
 
     # use your personal figma access token and local .env file
 
