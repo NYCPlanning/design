@@ -95,7 +95,6 @@ As we stated above, if you would like to use the figspec feature, that type need
 
 > [!IMPORTANT]
 > Additionally, we need to include our shared Figma access token for figspec to work properly. To access the token, go to the Design vault on 1Password. The token is located under credential for `Figma personal access token for storybook`.
-
 > In `ae-streetscape`, there is a file called `sample.env`, this is where we will place our personal access token from figma.
 
     # use your personal figma access token and local .env file
