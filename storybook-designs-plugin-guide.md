@@ -41,9 +41,9 @@ These steps are based of documentation for [Designs v7.0.9](https://github.com/s
 
     pnpm add -D @storybook/addon-designs
 
-### 2. Check to see if plug-in is registered in `main.tsx`
+### 2. Check to see if plug-in is registered in `main.ts`
 
-There should already be `"@storybook/addon-designs"` tag in `addon` parameter of your `main.tsx` file. if not, add the tag in the same format as the other addons.
+There should already be `"@storybook/addon-designs"` tag in `addon` parameter of your `main.ts` file. if not, add the tag in the same format as the other addons.
 
 ## Adding an Embedded Figma File to a Storybook Component
 
@@ -93,9 +93,10 @@ As we stated above, if you would like to use the figspec feature, that type need
         },
     };
 
-Additionally, we need to include our shared Figma access token for figspec to work properly. To access the token, go to the Design vault on 1Password. The token is located under credential for `Figma personal access token for storybook`.
+> [!IMPORTANT]
+> Additionally, we need to include our shared Figma access token for figspec to work properly. To access the token, go to the Design vault on 1Password. The token is located under credential for `Figma personal access token for storybook`.
 
-In `ae-streetscape`, there is a file called `sample.env', this is where we will place our personal access token from figma.
+> In `ae-streetscape`, there is a file called `sample.env`, this is where we will place our personal access token from figma.
 
     # use your personal figma access token and local .env file
 
