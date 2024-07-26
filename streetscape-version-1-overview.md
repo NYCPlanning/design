@@ -13,7 +13,7 @@ Within Figma, we have established six foundational libraries that contain design
 
 All Figma files related to Streetscape live in the Streetscape project.
 
-![alt-text]()
+![alt-text](https://github.com/NYCPlanning/design/blob/streetscape-v1/assets/streetscape-v1/streescape%20figma%20project.png)
 
 To learn more about how to access and update libraries when working on a design file as well as overall how Figma is used, refer to [Streetscape: Getting Started](https://www.figma.com/design/mfEZjCGYOX49VKyptVDLG6/Streetscape%3A-Getting-Started?node-id=0-1&t=cP49FaXFBwrFe1i0-1).
 
