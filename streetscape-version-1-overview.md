@@ -23,3 +23,22 @@ To learn more about how to access and update libraries when working on a design 
 ### EDDE Redesign: Test and Iterate
 
 The best method to make sure we on the right track with our decision making while developing our libraries was to apply them to a design. Therefore, we applied our libraries to an EDDE redesign. Refer to [EDDE Redesign](https://www.figma.com/design/d9FEjwAyl6Mb4Sep9tPdNt/EDDE-Redesign?node-id=6-108&t=ZUED3d3k3Qltot4j-1) to look at comparison between the previous and current design.
+
+## For Developers
+
+### Storybook: Upgrading to Version 7.6.2
+
+Updating to the latest 7 version of Storybook to implement Storybook Designs Plug-In, a feature that allows us to embed Figma files into a Storybook component.
+
+### Storybook: Designs Plug-In
+
+We have created a [Storybook Designs Plug-In Guide](https://github.com/NYCPlanning/design/blob/main/storybook-designs-plugin-guide.md) detailing the reasons behind incorporating this feature, demonstrating its capabilities, and outlining how to use the plug-in.
+
+Here is a quick snippet from the guide:
+
+> The Storybook Designs plug-in allows us to embedd figma files into Storybook components. Therefore, when designers create changes to Figma files, it should reflect the new changes within the corresponding Figma file that is embeddeed to its respective Storybook component. This helps bridge the gap between design and implementation as it is easier to see visually what updated Figma components correspond with their Storybook counterpart.
+
+### Design Token Automation
+
+
+### Figma Dev Mode
