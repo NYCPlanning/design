@@ -26,13 +26,9 @@ The best method to make sure we on the right track with our decision making whil
 
 ## For Developers
 
-### Storybook: Upgrading to Version 7.6.2
-
-Updating to the latest 7 version of Storybook to implement Storybook Designs Plug-In, a feature that allows us to embed Figma files into a Storybook component.
-
 ### Storybook: Designs Plug-In
 
-We have created a [Storybook Designs Plug-In Guide](https://github.com/NYCPlanning/design/blob/main/storybook-designs-plugin-guide.md) detailing the reasons behind incorporating this feature, demonstrating its capabilities, and outlining how to use the plug-in.
+We have created a [Storybook Designs Plug-In Guide](https://github.com/NYCPlanning/design/blob/main/storybook-designs-plugin-guide.md) detailing the reasons behind incorporating this feature, demonstrating its capabilities, and outlining how to use the plug-in. All implementation related to Designs plug-in live in [`ae-streetscape`](https://github.com/NYCPlanning/ae-streetscape).
 
 Here is a quick snippet from the guide:
 
@@ -42,7 +38,7 @@ Currently, we have all Storybook components linked to their Figma Chakra UI coun
 
 ### Design Token Automation
 
-We tried to investigate if it would be possible to automate syncing design tokens from Figma to Storybook. After some progress, we we're blocked by the hurdle to converting our token json file to typescript to comply with Chakra. For more details of this exploration, refer to this [git issue](https://github.com/NYCPlanning/design/issues/34).
+We tried to investigate if it would be possible to automate syncing design tokens from Figma to Storybook. After some progress, we we're blocked by the hurdle to converting our token json file to typescript to comply with Chakra. For more details of this exploration, refer to this [git issue](https://github.com/NYCPlanning/design/issues/34) and this [pr](https://github.com/NYCPlanning/design/pull/39) from `design`.
 
 > ![alt-text](https://github.com/NYCPlanning/design/blob/streetscape-v1/assets/streetscape-v1/design-system-sync.drawio.png)
 
