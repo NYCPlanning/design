@@ -40,10 +40,31 @@ Refer to the Getting Started for an overview on how Figma is used for Streetscap
 
 ## Guidelines for Documentation in `design`
 
-TBD
-<!--- todo:
-    - creating or going into an existing branch to edit doc
-    - what md flavor we follow
-    - how to insert images/media files
-    - useful extentsions to add 
- -->
+### Organizing our repository
+
+Our GitHub repository and project (git issues) serves as a source of truth for documentation. To keep our workflow organized, we will layout some guidelines on how we structure file management and writing guides in `design`.
+
+### Managing files
+
+Edits to existing files should be done in their respective branches before pushing those changes to the `main` branch. For example, if I edit the design readme, I would go to `edit-readme` branch and create my changes here. Once changes are ready, create a pull request and if the changes are good to go, merge to `main`.
+
+> [!IMPORTANT]
+> Currently, we are using Pull Requests as our changelog to things related in `design`.
+> ![alt text](https://github.com/NYCPlanning/design/blob/edit-readme/assets/readme/prexample.png)
+
+### Writing a markdown
+
+Our current preferred md flavor is GitHub Flavored Markdown (GFM) as most documentation is read in GitHub. [Here is a link to a useful resource on writing in GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github). Additionally, if editing md in VS code, having extensions like [mdlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) can help with syntax.
+
+For content, a brief summary and outline of goals in the beginning is always recommended to provide readers insight on what this documentation entails. The use of visual aids such as images, gifs, and other assets are up to the writer to decide what methods help articulate their points.
+
+### GitHub project and issues
+
+We have one GitHub project where all tasks management lives. Each task is a git issue, which serves as a point of reference for that respective task as they contain notes about research and progression. Issues are tagged by labels that determine what context are related to a task. Issues are also tagged by priority and effort to estimate the scope of a task.
+
+![alt text](https://github.com/NYCPlanning/design/blob/edit-readme/assets/readme/gitissueexample.png)
+
+> [!TIP]
+> GFM syntax can be used in Git Issues.
+
+General rule of thumb for issues is to outline summarize shortly what task entails along with goals/to-do in the description. For comments that are outdated or resolved, you should have the ability to collapse them to keep a cleaner progress timeline.
