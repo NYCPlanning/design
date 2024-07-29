@@ -38,7 +38,44 @@ Here is a quick snippet from the guide:
 
 > The Storybook Designs plug-in allows us to embedd figma files into Storybook components. Therefore, when designers create changes to Figma files, it should reflect the new changes within the corresponding Figma file that is embeddeed to its respective Storybook component. This helps bridge the gap between design and implementation as it is easier to see visually what updated Figma components correspond with their Storybook counterpart.
 
+Currently, we have all Storybook components linked to their Figma Chakra UI counterpart on Streetscape's Storybook.
+
 ### Design Token Automation
 
+We tried to investigate if it would be possible to automate syncing design tokens from Figma to Storybook. After some progress, we we're blocked by the hurdle to converting our token json file to typescript to comply with Chakra. For more details of this exploration, refer to this [git issue](https://github.com/NYCPlanning/design/issues/34).
+
+> ![alt-text]()
 
 ### Figma Dev Mode
+
+As an alternative to the design token automation, we looked into incorporating [Figma's Dev Mode](https://www.figma.com/dev-mode/) as it contain features that create better handoffs between designers and developers.
+
+Potential features to explore:
+
+- [Annotations in Dev Mode](https://help.figma.com/hc/en-us/articles/20774752502935-Add-measurements-and-annotate-designs-in-Dev-Mode)
+
+> - Highlight important properties so developers can't miss them
+> - Help developers quickly visualize specs like spacing and sizing
+> - Share additional context with text notes
+
+![alt-text]()
+
+- [Code Connect](https://help.figma.com/hc/en-us/articles/23920389749655-Code-Connect)
+  - compatible with Storybook and React, [Code Connect Repo](https://github.com/figma/code-connect)
+
+> Use Code Connect to link your components in code with your design system in Figma, so code snippets are always production-ready...bring your design system component code directly into Figma's Dev Mode. Preview example components that mirror the framework of your production code.
+>
+> "Code Connect is the feature that we’ve been most excited about. Setting it up was super easy– it only took one engineer two weeks."
+>
+> [!NOTE]
+> Code Connect is only available for Organization or Enterprise Figma plans.
+
+### Next Steps
+
+As we established the foundation for our design system, our next steps is to continue to iterate and modify our building blocks to ensure they work in tandem with our current and future products.
+
+#### Goals
+
+- Explore how we would like to set up the web components library in Figma. Would it be project specific or a foundational library? How would Chakra UI influence the direction of this library?
+
+- Practice using Dev Mode as default standard for handoff between designers and developers. Therefore, investigating how to incorporate dev mode features would be a good starting point.
