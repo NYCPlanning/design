@@ -44,7 +44,7 @@ Currently, we have all Storybook components linked to their Figma Chakra UI coun
 
 We tried to investigate if it would be possible to automate syncing design tokens from Figma to Storybook. After some progress, we we're blocked by the hurdle to converting our token json file to typescript to comply with Chakra. For more details of this exploration, refer to this [git issue](https://github.com/NYCPlanning/design/issues/34).
 
-> ![alt-text]()
+> ![alt-text](https://github.com/NYCPlanning/design/blob/streetscape-v1/assets/streetscape-v1/design-system-sync.drawio.png)
 
 ### Figma Dev Mode
 
@@ -58,7 +58,7 @@ Potential features to explore:
 > - Help developers quickly visualize specs like spacing and sizing
 > - Share additional context with text notes
 
-![alt-text]()
+![alt-text](https://github.com/NYCPlanning/design/blob/streetscape-v1/assets/streetscape-v1/devmodeannotations.png)
 
 - [Code Connect](https://help.figma.com/hc/en-us/articles/23920389749655-Code-Connect)
   - compatible with Storybook and React, [Code Connect Repo](https://github.com/figma/code-connect)
