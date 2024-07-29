@@ -67,6 +67,7 @@ Potential features to explore:
 >
 > "Code Connect is the feature that we’ve been most excited about. Setting it up was super easy– it only took one engineer two weeks."
 >
+
 > [!NOTE]
 > Code Connect is only available for Organization or Enterprise Figma plans.
 
