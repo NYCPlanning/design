@@ -71,7 +71,7 @@ Potential features to explore:
 > [!NOTE]
 > Code Connect is only available for Organization or Enterprise Figma plans.
 
-### Next Steps
+## Next Steps
 
 As we established the foundation for our design system, our next steps is to continue to iterate and modify our building blocks to ensure they work in tandem with our current and future products.
 
