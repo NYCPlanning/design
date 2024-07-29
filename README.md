@@ -50,7 +50,7 @@ Edits to existing files should be done in their respective branches before pushi
 
 > [!IMPORTANT]
 > Currently, we are using Pull Requests as our changelog to things related in `design`.
-> ![alt text]()
+> ![alt text](https://github.com/NYCPlanning/design/blob/edit-readme/assets/readme/prexample.png)
 
 ### Writing a markdown
 
@@ -62,12 +62,12 @@ For content, a brief summary and outline of goals in the beginning is always rec
 
 We have one GitHub project where all tasks management lives. Each task is a git issue, which serves as a point of reference for that respective task as they contain notes about research and progression. Issues are tagged by labels that determine what context are related to a task. Issues are also tagged by priority and effort to estimate the scope of a task.
 
-![alt text]()
+![alt text](https://github.com/NYCPlanning/design/blob/edit-readme/assets/readme/gitissueexample.png)
 
 > [!TIP]
 > GFM syntax can be used in Git Issues.
 
-General rule of thumb for issues is to outline summarize shortly what task entails along with goals/to-do in the description. For comments that are outdated or resolved, you should have the ability to collapse them to keep a cleaner progress timeline. 
+General rule of thumb for issues is to outline summarize shortly what task entails along with goals/to-do in the description. For comments that are outdated or resolved, you should have the ability to collapse them to keep a cleaner progress timeline.
 
 <!--- todo:
     - creating or going into an existing branch to edit doc
