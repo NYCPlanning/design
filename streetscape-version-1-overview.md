@@ -75,7 +75,7 @@ Potential features to explore:
 
 As we established the foundation for our design system, our next steps is to continue to iterate and modify our building blocks to ensure they work in tandem with our current and future products.
 
-#### Goals
+### Goals
 
 - Explore how we would like to set up the web components library in Figma. Would it be project specific or a foundational library? How would Chakra UI influence the direction of this library?
 
