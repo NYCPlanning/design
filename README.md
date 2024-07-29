@@ -68,10 +68,3 @@ We have one GitHub project where all tasks management lives. Each task is a git 
 > GFM syntax can be used in Git Issues.
 
 General rule of thumb for issues is to outline summarize shortly what task entails along with goals/to-do in the description. For comments that are outdated or resolved, you should have the ability to collapse them to keep a cleaner progress timeline.
-
-<!--- todo:
-    - creating or going into an existing branch to edit doc
-    - what md flavor we follow
-    - how to insert images/media files
-    - useful extentsions to add 
- -->
