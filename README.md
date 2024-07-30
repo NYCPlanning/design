@@ -1,4 +1,4 @@
-# design
+# ![alt text](https://github.com/NYCPlanning/design/blob/edit-readme/assets/readme/nyclogo.png)
 
 A repository for the Design team in the Geographic Data and Engineering team of the NYC Department of City Planning.
 
@@ -7,6 +7,8 @@ A repository for the Design team in the Geographic Data and Engineering team of 
 ### In this `design` repo
 
 Files that live in the `design` repo.
+
+- [Streetscape: Foundational Building Blocks Overview](https://github.com/NYCPlanning/design/blob/main/streetscape-foundation-overview.md)
 
 - [Streetscape + Storybook Installation Guide](https://github.com/NYCPlanning/design/blob/main/streetscape-storybook-installation-guide.md)
 
