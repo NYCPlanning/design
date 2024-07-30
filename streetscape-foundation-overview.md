@@ -1,4 +1,4 @@
-# Streetscape 1
+# Streetscape: Foundational Building Blocks
 
 Building the foundation for our design system to sync designers and developers workflows to create consistent and accessible digital products.
 
