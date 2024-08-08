@@ -65,6 +65,7 @@ Here are some examples of dev mode in action:
 >
 ![alt-text](https://github.com/NYCPlanning/design/blob/streetscape-v1/assets/streetscape-v1/devmodecompare.png)
 
+- [Using code snippets from Figma](https://help.figma.com/hc/en-us/articles/15023202277399-Use-code-snippets-in-Dev-Mode)
 
 - [Code Connect](https://help.figma.com/hc/en-us/articles/23920389749655-Code-Connect)
   - compatible with Storybook and React, [Code Connect Repo](https://github.com/figma/code-connect)
