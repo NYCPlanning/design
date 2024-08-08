@@ -76,3 +76,7 @@ As we established the foundation for our design system, our next steps is to con
 - Explore how we would like to set up the web components library in Figma. Would it be project specific or a foundational library? How would Chakra UI influence the direction of this library?
 
 - Practice using Dev Mode as default standard for handoff between designers and developers. Therefore, investigating how to incorporate dev mode features would be a good starting point.
+
+  > Here is an example of dev mode in the EDDE redesign:
+  > ![alt-text]()
+- Encourage to keep Streetscape updated and have more rigorious testing to comply with WCAG AA and AAA standards.
