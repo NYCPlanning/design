@@ -54,7 +54,7 @@ Potential features to explore:
 > - Help developers quickly visualize specs like spacing and sizing
 > - Share additional context with text notes
 
-![alt-text](https://github.com/NYCPlanning/design/blob/streetscape-v1/assets/streetscape-v1/devmodeannotations.png)
+![alt-text](https://github.com/NYCPlanning/design/blob/streetscape-v1/assets/streetscape-v1/devmodeannotationsexample.png)
 
 - [Code Connect](https://help.figma.com/hc/en-us/articles/23920389749655-Code-Connect)
   - compatible with Storybook and React, [Code Connect Repo](https://github.com/figma/code-connect)
@@ -68,9 +68,16 @@ Potential features to explore:
 > Code Connect is only available for Organization or Enterprise Figma plans.
 
 
-Here is an example of dev mode in the EDDE redesign:
+Here are some examples of dev mode in action:
 
-![alt-text](https://github.com/NYCPlanning/design/blob/streetscape-v1/assets/streetscape-v1/devmodevideo.mov)
+> Annotations linked to frames.
+> ![alt-text](https://github.com/NYCPlanning/design/blob/streetscape-v1/assets/streetscape-v1/devmodeannotations.png)
+
+> Marking frames as ready to dev.
+> ![alt-text](https://github.com/NYCPlanning/design/blob/streetscape-v1/assets/streetscape-v1/devmodeready.png)
+
+> Comparing different versions.
+![alt-text](https://github.com/NYCPlanning/design/blob/streetscape-v1/assets/streetscape-v1/devmodecompare.png)
 
 ## Next Steps
 
