@@ -70,7 +70,7 @@ Potential features to explore:
 
 Here is an example of dev mode in the EDDE redesign:
 
-<img src="https://github.com/NYCPlanning/design/blob/streetscape-v1/assets/streetscape-v1/devmodeexample.gif" width="750" height="500">
+![alt-text](https://github.com/NYCPlanning/design/blob/streetscape-v1/assets/streetscape-v1/devmodeexample.gif)
 
 ## Next Steps
 
