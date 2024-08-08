@@ -79,4 +79,5 @@ As we established the foundation for our design system, our next steps is to con
 
   > Here is an example of dev mode in the EDDE redesign:
   > ![alt-text](https://github.com/NYCPlanning/design/blob/streetscape-v1/assets/streetscape-v1/devmodeexample.gif)
+  
 - Encourage to keep Streetscape updated and have more rigorious testing to comply with WCAG AA and AAA standards.
