@@ -67,16 +67,13 @@ Potential features to explore:
 > [!NOTE]
 > Code Connect is only available for Organization or Enterprise Figma plans.
 
-
-Here are some examples of dev mode in action:
-
-> Annotations linked to frames.
-> ![alt-text](https://github.com/NYCPlanning/design/blob/streetscape-v1/assets/streetscape-v1/devmodeannotations.png)
-
-> Marking frames as ready to dev.
+Here are some examples of dev mode in action:s
+> Marking frames as ready for development.
+>
 > ![alt-text](https://github.com/NYCPlanning/design/blob/streetscape-v1/assets/streetscape-v1/devmodeready.png)
 
 > Comparing different versions.
+>
 ![alt-text](https://github.com/NYCPlanning/design/blob/streetscape-v1/assets/streetscape-v1/devmodecompare.png)
 
 ## Next Steps
