@@ -67,6 +67,11 @@ Potential features to explore:
 > [!NOTE]
 > Code Connect is only available for Organization or Enterprise Figma plans.
 
+
+Here is an example of dev mode in the EDDE redesign:
+
+![alt-text](https://github.com/NYCPlanning/design/blob/streetscape-v1/assets/streetscape-v1/devmodeexample.gif)
+
 ## Next Steps
 
 As we established the foundation for our design system, our next steps is to continue to iterate and modify our building blocks to ensure they work in tandem with our current and future products.
@@ -77,6 +82,4 @@ As we established the foundation for our design system, our next steps is to con
 
 - Practice using Dev Mode as default standard for handoff between designers and developers. Therefore, investigating how to incorporate dev mode features would be a good starting point.
 
-  > Here is an example of dev mode in the EDDE redesign:
-  > ![alt-text](https://github.com/NYCPlanning/design/blob/streetscape-v1/assets/streetscape-v1/devmodeexample.gif)
 - Encourage to keep Streetscape updated and have more rigorious testing to comply with WCAG AA and AAA standards.
