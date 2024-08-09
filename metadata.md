@@ -50,4 +50,4 @@ We created wireframes of how the PLUTO README should be displayed. Wireframes li
 - [Wireframes](https://www.figma.com/design/TrZT5EEaomB8NxOTkAqT7G/Metadata-Redesign?node-id=0-1&t=tp8SZPVFnWeWPzVr-1)
 - [Figma API Doc](https://www.figma.com/developers/api)
 
-![alt-text]()
+![alt-text](https://github.com/NYCPlanning/design/blob/metadata/assets/metadata/plutowireframes.png)
