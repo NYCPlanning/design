@@ -54,7 +54,18 @@ Potential features to explore:
 > - Help developers quickly visualize specs like spacing and sizing
 > - Share additional context with text notes
 
-![alt-text](https://github.com/NYCPlanning/design/blob/streetscape-v1/assets/streetscape-v1/devmodeannotations.png)
+![alt-text](https://github.com/NYCPlanning/design/blob/streetscape-v1/assets/streetscape-v1/devmodeannotationsexample.png)
+
+Here are some examples of dev mode in action:
+> Marking frames as ready for development.
+>
+> ![alt-text](https://github.com/NYCPlanning/design/blob/streetscape-v1/assets/streetscape-v1/devmodeready.png)
+
+> Comparing different versions.
+>
+![alt-text](https://github.com/NYCPlanning/design/blob/streetscape-v1/assets/streetscape-v1/devmodecompare.png)
+
+- [Using code snippets from Figma](https://help.figma.com/hc/en-us/articles/15023202277399-Use-code-snippets-in-Dev-Mode)
 
 - [Code Connect](https://help.figma.com/hc/en-us/articles/23920389749655-Code-Connect)
   - compatible with Storybook and React, [Code Connect Repo](https://github.com/figma/code-connect)
@@ -76,9 +87,5 @@ As we established the foundation for our design system, our next steps is to con
 - Explore how we would like to set up the web components library in Figma. Would it be project specific or a foundational library? How would Chakra UI influence the direction of this library?
 
 - Practice using Dev Mode as default standard for handoff between designers and developers. Therefore, investigating how to incorporate dev mode features would be a good starting point.
-
-  > Here is an example of dev mode in the EDDE redesign:
-  > 
-  > ![alt-text](https://github.com/NYCPlanning/design/blob/streetscape-v1/assets/streetscape-v1/devmodeexample.gif)
   
 - Encourage to keep Streetscape updated and have more rigorious testing to comply with WCAG AA and AAA standards.
