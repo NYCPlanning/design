@@ -1,0 +1,898 @@
+{
+  "Design System (new)": {
+    "Blue": {
+      "50": {
+        "value": "#e6eff9",
+        "type": "color"
+      },
+      "100": {
+        "value": "#d2e1f4",
+        "type": "color"
+      },
+      "200": {
+        "value": "#a1c3e8",
+        "type": "color"
+      },
+      "300": {
+        "value": "#74a7dd",
+        "type": "color"
+      },
+      "400": {
+        "value": "#4387d1",
+        "type": "color"
+      },
+      "500": {
+        "value": "#2b6cb0",
+        "type": "color"
+      },
+      "600": {
+        "value": "#22558b",
+        "type": "color"
+      },
+      "700": {
+        "value": "#1a416b",
+        "type": "color"
+      },
+      "800": {
+        "value": "#112a46",
+        "type": "color"
+      },
+      "900": {
+        "value": "#091625",
+        "type": "color"
+      }
+    },
+    "Yellow": {
+      "50": {
+        "value": "#fdf9ed",
+        "type": "color"
+      },
+      "100": {
+        "value": "#fbf4da",
+        "type": "color"
+      },
+      "200": {
+        "value": "#f8e8b5",
+        "type": "color"
+      },
+      "300": {
+        "value": "#f3df95",
+        "type": "color"
+      },
+      "400": {
+        "value": "#f0d470",
+        "type": "color"
+      },
+      "500": {
+        "value": "#ecc94a",
+        "type": "color"
+      },
+      "600": {
+        "value": "#e2b616",
+        "type": "color"
+      },
+      "700": {
+        "value": "#ab8a12",
+        "type": "color"
+      },
+      "800": {
+        "value": "#70590b",
+        "type": "color"
+      },
+      "900": {
+        "value": "#372d07",
+        "type": "color"
+      }
+    },
+    "Green": {
+      "50": {
+        "value": "#e3f7ed",
+        "type": "color"
+      },
+      "100": {
+        "value": "#caf1e0",
+        "type": "color"
+      },
+      "200": {
+        "value": "#94e1be",
+        "type": "color"
+      },
+      "300": {
+        "value": "#5fd39f",
+        "type": "color"
+      },
+      "400": {
+        "value": "#34bc7f",
+        "type": "color"
+      },
+      "500": {
+        "value": "#24855a",
+        "type": "color"
+      },
+      "600": {
+        "value": "#1e6c49",
+        "type": "color"
+      },
+      "700": {
+        "value": "#175036",
+        "type": "color"
+      },
+      "800": {
+        "value": "#0e3423",
+        "type": "color"
+      },
+      "900": {
+        "value": "#081c13",
+        "type": "color"
+      }
+    },
+    "Red": {
+      "50": {
+        "value": "#fbebe8",
+        "type": "color"
+      },
+      "100": {
+        "value": "#f8d8d3",
+        "type": "color"
+      },
+      "200": {
+        "value": "#f0aca3",
+        "type": "color"
+      },
+      "300": {
+        "value": "#e88578",
+        "type": "color"
+      },
+      "400": {
+        "value": "#e05947",
+        "type": "color"
+      },
+      "500": {
+        "value": "#d13824",
+        "type": "color"
+      },
+      "600": {
+        "value": "#a62c1b",
+        "type": "color"
+      },
+      "700": {
+        "value": "#7f2215",
+        "type": "color"
+      },
+      "800": {
+        "value": "#53150e",
+        "type": "color"
+      },
+      "900": {
+        "value": "#2c0c07",
+        "type": "color"
+      }
+    },
+    "Neutral": {
+      "50": {
+        "value": "#f0f2f4",
+        "type": "color"
+      },
+      "100": {
+        "value": "#e3e5e9",
+        "type": "color"
+      },
+      "200": {
+        "value": "#c7cdd6",
+        "type": "color"
+      },
+      "300": {
+        "value": "#aab3c0",
+        "type": "color"
+      },
+      "400": {
+        "value": "#8d99aa",
+        "type": "color"
+      },
+      "500": {
+        "value": "#718096",
+        "type": "color"
+      },
+      "600": {
+        "value": "#596578",
+        "type": "color"
+      },
+      "700": {
+        "value": "#434d5b",
+        "type": "color"
+      },
+      "800": {
+        "value": "#2e343e",
+        "type": "color"
+      },
+      "900": {
+        "value": "#17191d",
+        "type": "color"
+      }
+    },
+    "Teal": {
+      "50": {
+        "value": "#e8f7f7",
+        "type": "color"
+      },
+      "100": {
+        "value": "#d1f0ef",
+        "type": "color"
+      },
+      "200": {
+        "value": "#a3e1e0",
+        "type": "color"
+      },
+      "300": {
+        "value": "#74d2d0",
+        "type": "color"
+      },
+      "400": {
+        "value": "#43c2c0",
+        "type": "color"
+      },
+      "500": {
+        "value": "#319795",
+        "type": "color"
+      },
+      "600": {
+        "value": "#287776",
+        "type": "color"
+      },
+      "700": {
+        "value": "#1e5c5b",
+        "type": "color"
+      },
+      "800": {
+        "value": "#143e3d",
+        "type": "color"
+      },
+      "900": {
+        "value": "#09201e",
+        "type": "color"
+      }
+    },
+    "Orange": {
+      "50": {
+        "value": "#fdf6f1",
+        "type": "color"
+      },
+      "100": {
+        "value": "#faede5",
+        "type": "color"
+      },
+      "200": {
+        "value": "#f7dbcb",
+        "type": "color"
+      },
+      "300": {
+        "value": "#f1c7ac",
+        "type": "color"
+      },
+      "400": {
+        "value": "#ebb593",
+        "type": "color"
+      },
+      "500": {
+        "value": "#e7a379",
+        "type": "color"
+      },
+      "600": {
+        "value": "#e3915f",
+        "type": "color"
+      },
+      "700": {
+        "value": "#dd7c40",
+        "type": "color"
+      },
+      "800": {
+        "value": "#d96b27",
+        "type": "color"
+      },
+      "900": {
+        "value": "#6c3513",
+        "type": "color"
+      }
+    },
+    "fontFamilies": {
+      "helvetica-neue": {
+        "value": "Helvetica Neue",
+        "type": "fontFamilies"
+      },
+      "inter": {
+        "value": "Inter",
+        "type": "fontFamilies"
+      }
+    },
+    "lineHeights": {
+      "0": {
+        "value": "AUTO",
+        "type": "lineHeights"
+      }
+    },
+    "fontWeights": {
+      "helvetica-neue-0": {
+        "value": "Bold",
+        "type": "fontWeights"
+      },
+      "inter-1": {
+        "value": "Bold",
+        "type": "fontWeights"
+      },
+      "helvetica-neue-2": {
+        "value": "Medium",
+        "type": "fontWeights"
+      },
+      "helvetica-neue-3": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "inter-4": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "inter-5": {
+        "value": "Medium",
+        "type": "fontWeights"
+      }
+    },
+    "fontSize": {
+      "0": {
+        "value": "9",
+        "type": "fontSizes"
+      },
+      "1": {
+        "value": "12",
+        "type": "fontSizes"
+      },
+      "2": {
+        "value": "16",
+        "type": "fontSizes"
+      },
+      "3": {
+        "value": "21",
+        "type": "fontSizes"
+      },
+      "4": {
+        "value": "27",
+        "type": "fontSizes"
+      },
+      "5": {
+        "value": "36",
+        "type": "fontSizes"
+      },
+      "6": {
+        "value": "47",
+        "type": "fontSizes"
+      },
+      "7": {
+        "value": "61",
+        "type": "fontSizes"
+      }
+    },
+    "letterSpacing": {
+      "0": {
+        "value": "2%",
+        "type": "letterSpacing"
+      },
+      "1": {
+        "value": "3%",
+        "type": "letterSpacing"
+      },
+      "2": {
+        "value": "1.5%",
+        "type": "letterSpacing"
+      },
+      "3": {
+        "value": "0%",
+        "type": "letterSpacing"
+      }
+    },
+    "paragraphSpacing": {
+      "0": {
+        "value": "0",
+        "type": "paragraphSpacing"
+      }
+    },
+    "Display Headings": {
+      "text-heading-display-800": {
+        "value": {
+          "fontFamily": "{fontFamilies.helvetica-neue}",
+          "fontWeight": "{fontWeights.helvetica-neue-0}",
+          "lineHeight": "{lineHeights.0}",
+          "fontSize": "{fontSize.7}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography",
+        "description": "Display headings are the largest set of type styles available in Streetscape. Please use these styles for emphasis and impact (i.e. hero page, home page)"
+      },
+      "text-heading-display-700": {
+        "value": {
+          "fontFamily": "{fontFamilies.helvetica-neue}",
+          "fontWeight": "{fontWeights.helvetica-neue-0}",
+          "lineHeight": "{lineHeights.0}",
+          "fontSize": "{fontSize.6}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography",
+        "description": "Display headings are the largest set of type styles available in Streetscape. Please use these styles for emphasis and impact (i.e. hero page, home page)"
+      },
+      "text-heading-display-600": {
+        "value": {
+          "fontFamily": "{fontFamilies.helvetica-neue}",
+          "fontWeight": "{fontWeights.helvetica-neue-0}",
+          "lineHeight": "{lineHeights.0}",
+          "fontSize": "{fontSize.5}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography",
+        "description": "Display headings are the largest set of type styles available in Streetscape. Please use these styles for emphasis and impact (i.e. hero page, home page)"
+      },
+      "text-heading-display-500": {
+        "value": {
+          "fontFamily": "{fontFamilies.helvetica-neue}",
+          "fontWeight": "{fontWeights.helvetica-neue-0}",
+          "lineHeight": "{lineHeights.0}",
+          "fontSize": "{fontSize.4}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography",
+        "description": "Display headings are the largest set of type styles available in Streetscape. Please use these styles for emphasis and impact (i.e. hero page, home page)"
+      },
+      "text-heading-display-400": {
+        "value": {
+          "fontFamily": "{fontFamilies.inter}",
+          "fontWeight": "{fontWeights.inter-1}",
+          "lineHeight": "{lineHeights.0}",
+          "fontSize": "{fontSize.3}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography",
+        "description": "Display headings are the largest set of type styles available in Streetscape. Please use these styles for emphasis and impact (i.e. hero page, home page)"
+      },
+      "text-heading-display-300": {
+        "value": {
+          "fontFamily": "{fontFamilies.inter}",
+          "fontWeight": "{fontWeights.inter-1}",
+          "lineHeight": "{lineHeights.0}",
+          "fontSize": "{fontSize.2}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography",
+        "description": "Display headings are the largest set of type styles available in Streetscape. Please use these styles for emphasis and impact (i.e. hero page, home page)."
+      }
+    },
+    "Heading Sans": {
+      "text-subheading-sans-700": {
+        "value": {
+          "fontFamily": "{fontFamilies.helvetica-neue}",
+          "fontWeight": "{fontWeights.helvetica-neue-2}",
+          "lineHeight": "{lineHeights.0}",
+          "fontSize": "{fontSize.6}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography",
+        "description": "Subheadings help support meaning along with headings. Do not position subheadings without pairing it with a heading style. Subheading font should always be smaller than the heading font."
+      },
+      "text-subheading-sans-600": {
+        "value": {
+          "fontFamily": "{fontFamilies.helvetica-neue}",
+          "fontWeight": "{fontWeights.helvetica-neue-2}",
+          "lineHeight": "{lineHeights.0}",
+          "fontSize": "{fontSize.5}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography",
+        "description": "Subheadings help support meaning along with headings. Do not position subheadings without pairing it with a heading style. Subheading font should always be smaller than the heading font."
+      },
+      "text-subheading-sans-500": {
+        "value": {
+          "fontFamily": "{fontFamilies.helvetica-neue}",
+          "fontWeight": "{fontWeights.helvetica-neue-2}",
+          "lineHeight": "{lineHeights.0}",
+          "fontSize": "{fontSize.4}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography",
+        "description": "Subheadings help support meaning along with headings. Do not position subheadings without pairing it with a heading style. Subheading font should always be smaller than the heading font."
+      },
+      "text-subheading-sans-400": {
+        "value": {
+          "fontFamily": "{fontFamilies.helvetica-neue}",
+          "fontWeight": "{fontWeights.helvetica-neue-2}",
+          "lineHeight": "{lineHeights.0}",
+          "fontSize": "{fontSize.3}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography",
+        "description": "Subheadings help support meaning along with headings. Do not position subheadings without pairing it with a heading style. Subheading font should always be smaller than the heading font."
+      },
+      "text-subheading-sans-300": {
+        "value": {
+          "fontFamily": "{fontFamilies.helvetica-neue}",
+          "fontWeight": "{fontWeights.helvetica-neue-2}",
+          "lineHeight": "{lineHeights.0}",
+          "fontSize": "{fontSize.2}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography",
+        "description": "Subheadings help support meaning along with headings. Do not position subheadings without pairing it with a heading style. Subheading font should always be smaller than the heading font."
+      },
+      "text-subheading-sans-200": {
+        "value": {
+          "fontFamily": "{fontFamilies.helvetica-neue}",
+          "fontWeight": "{fontWeights.helvetica-neue-2}",
+          "lineHeight": "{lineHeights.0}",
+          "fontSize": "{fontSize.1}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography",
+        "description": "Subheadings help support meaning along with headings. Do not position subheadings without pairing it with a heading style. Subheading font should always be smaller than the heading font."
+      },
+      "text-subheading-sans-100": {
+        "value": {
+          "fontFamily": "{fontFamilies.helvetica-neue}",
+          "fontWeight": "{fontWeights.helvetica-neue-3}",
+          "lineHeight": "{lineHeights.0}",
+          "fontSize": "{fontSize.0}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography",
+        "description": "Subheadings help support meaning along with headings. Do not position subheadings without pairing it with a heading style. Subheading font should always be smaller than the heading font."
+      }
+    },
+    "Body Text": {
+      "text-body-regular-300": {
+        "value": {
+          "fontFamily": "{fontFamilies.helvetica-neue}",
+          "fontWeight": "{fontWeights.helvetica-neue-3}",
+          "lineHeight": "{lineHeights.0}",
+          "fontSize": "{fontSize.2}",
+          "letterSpacing": "{letterSpacing.1}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography",
+        "description": "Body text is best for long form copy. There are two types: regular and strong. Strong is used for when text needs to be bolded."
+      },
+      "text-body-regular-200": {
+        "value": {
+          "fontFamily": "{fontFamilies.helvetica-neue}",
+          "fontWeight": "{fontWeights.helvetica-neue-3}",
+          "lineHeight": "{lineHeights.0}",
+          "fontSize": "{fontSize.1}",
+          "letterSpacing": "{letterSpacing.1}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography",
+        "description": "Body text is best for long form copy. There are two types: regular and strong. Strong is used for when text needs to be bolded."
+      },
+      "text-body-regular-100": {
+        "value": {
+          "fontFamily": "{fontFamilies.helvetica-neue}",
+          "fontWeight": "{fontWeights.helvetica-neue-3}",
+          "lineHeight": "{lineHeights.0}",
+          "fontSize": "{fontSize.0}",
+          "letterSpacing": "{letterSpacing.1}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography",
+        "description": "Body text is best for long form copy. There are two types: regular and strong. Strong is used for when text needs to be bolded."
+      },
+      "Strong": {
+        "text-body-strong-300": {
+          "value": {
+            "fontFamily": "{fontFamilies.helvetica-neue}",
+            "fontWeight": "{fontWeights.helvetica-neue-2}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.2}",
+            "letterSpacing": "{letterSpacing.1}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Body text is best for long form copy. There are two types: regular and strong. Strong is used for when text needs to be bolded."
+        },
+        "text-body-strong-200": {
+          "value": {
+            "fontFamily": "{fontFamilies.helvetica-neue}",
+            "fontWeight": "{fontWeights.helvetica-neue-2}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.1}",
+            "letterSpacing": "{letterSpacing.1}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Body text is best for long form copy. There are two types: regular and strong. Strong is used for when text needs to be bolded."
+        },
+        "text-body-strong-100": {
+          "value": {
+            "fontFamily": "{fontFamilies.helvetica-neue}",
+            "fontWeight": "{fontWeights.helvetica-neue-2}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.0}",
+            "letterSpacing": "{letterSpacing.1}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Body text is best for long form copy. There are two types: regular and strong. Strong is used for when text needs to be bolded."
+        }
+      }
+    },
+    "Utility Headings": {
+      "text-heading-utility-600": {
+        "value": {
+          "fontFamily": "{fontFamilies.helvetica-neue}",
+          "fontWeight": "{fontWeights.helvetica-neue-3}",
+          "lineHeight": "{lineHeights.0}",
+          "fontSize": "{fontSize.5}",
+          "letterSpacing": "{letterSpacing.2}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography",
+        "description": "Utility styles are best used for to convey functionality and are ideal in compact spaces (i.e. labelling elements)."
+      },
+      "text-heading-utility-500": {
+        "value": {
+          "fontFamily": "{fontFamilies.inter}",
+          "fontWeight": "{fontWeights.inter-4}",
+          "lineHeight": "{lineHeights.0}",
+          "fontSize": "{fontSize.4}",
+          "letterSpacing": "{letterSpacing.2}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography",
+        "description": "Utility styles are best used for to convey functionality and are ideal in compact spaces (i.e. labelling elements)."
+      },
+      "text-heading-utility-400": {
+        "value": {
+          "fontFamily": "{fontFamilies.helvetica-neue}",
+          "fontWeight": "{fontWeights.helvetica-neue-3}",
+          "lineHeight": "{lineHeights.0}",
+          "fontSize": "{fontSize.3}",
+          "letterSpacing": "{letterSpacing.2}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography",
+        "description": "Utility styles are best used for to convey functionality and are ideal in compact spaces (i.e. labelling elements)."
+      },
+      "text-heading-utility-300": {
+        "value": {
+          "fontFamily": "{fontFamilies.helvetica-neue}",
+          "fontWeight": "{fontWeights.helvetica-neue-3}",
+          "lineHeight": "{lineHeights.0}",
+          "fontSize": "{fontSize.2}",
+          "letterSpacing": "{letterSpacing.3}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography",
+        "description": "Utility styles are best used for to convey functionality and are ideal in compact spaces (i.e. labelling elements)."
+      },
+      "text-heading-utility-200": {
+        "value": {
+          "fontFamily": "{fontFamilies.inter}",
+          "fontWeight": "{fontWeights.inter-4}",
+          "lineHeight": "{lineHeights.0}",
+          "fontSize": "{fontSize.1}",
+          "letterSpacing": "{letterSpacing.2}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography"
+      },
+      "text-heading-utility-100": {
+        "value": {
+          "fontFamily": "{fontFamilies.inter}",
+          "fontWeight": "{fontWeights.inter-4}",
+          "lineHeight": "{lineHeights.0}",
+          "fontSize": "{fontSize.0}",
+          "letterSpacing": "{letterSpacing.2}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography",
+        "description": "Utility styles are best used for to convey functionality and are ideal in compact spaces (i.e. labelling elements)."
+      },
+      "Strong": {
+        "text-heading-utility-strong-600": {
+          "value": {
+            "fontFamily": "{fontFamilies.inter}",
+            "fontWeight": "{fontWeights.inter-5}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.5}",
+            "letterSpacing": "{letterSpacing.2}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Utility styles are best used for to convey functionality and are ideal in compact spaces (i.e. labelling elements)."
+        },
+        "text-heading-utility-strong-500": {
+          "value": {
+            "fontFamily": "{fontFamilies.helvetica-neue}",
+            "fontWeight": "{fontWeights.helvetica-neue-2}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.4}",
+            "letterSpacing": "{letterSpacing.2}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Utility styles are best used for to convey functionality and are ideal in compact spaces (i.e. labelling elements). Strong is recommended to bold text."
+        },
+        "text-heading-utility-strong-400": {
+          "value": {
+            "fontFamily": "{fontFamilies.helvetica-neue}",
+            "fontWeight": "{fontWeights.helvetica-neue-2}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.3}",
+            "letterSpacing": "{letterSpacing.2}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Utility styles are best used for to convey functionality and are ideal in compact spaces (i.e. labelling elements). Strong is recommended to bold text."
+        },
+        "text-heading-utility-strong-300": {
+          "value": {
+            "fontFamily": "{fontFamilies.helvetica-neue}",
+            "fontWeight": "{fontWeights.helvetica-neue-2}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.2}",
+            "letterSpacing": "{letterSpacing.2}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Utility styles are best used for to convey functionality and are ideal in compact spaces (i.e. labelling elements). Strong is recommended to bold text."
+        },
+        "text-heading-utility-strong-200": {
+          "value": {
+            "fontFamily": "{fontFamilies.helvetica-neue}",
+            "fontWeight": "{fontWeights.helvetica-neue-2}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.1}",
+            "letterSpacing": "{letterSpacing.2}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Utility styles are best used for to convey functionality and are ideal in compact spaces (i.e. labelling elements)."
+        },
+        "text-heading-utility-strong-100": {
+          "value": {
+            "fontFamily": "{fontFamilies.helvetica-neue}",
+            "fontWeight": "{fontWeights.helvetica-neue-2}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.0}",
+            "letterSpacing": "{letterSpacing.2}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Utility styles are best used for to convey functionality and are ideal in compact spaces (i.e. labelling elements). Strong is recommended to bold text."
+        }
+      }
+    },
+    "textCase": {
+      "none": {
+        "value": "none",
+        "type": "textCase"
+      }
+    },
+    "textDecoration": {
+      "none": {
+        "value": "none",
+        "type": "textDecoration"
+      }
+    },
+    "paragraphIndent": {
+      "0": {
+        "value": "0px",
+        "type": "dimension"
+      }
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "Design System (new)"
+    ]
+  }
+}
