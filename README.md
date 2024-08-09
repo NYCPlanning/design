@@ -14,6 +14,8 @@ Files that live in the `design` repo.
 
 - [Storybook Designs Plug-In Guide](https://github.com/NYCPlanning/design/blob/main/storybook-designs-plugin-guide.md)
 
+- [Metadata: Designing User-Friendly Content](https://github.com/NYCPlanning/design/blob/main/metadata.md)
+
 ### In Figma
 
 Refer to the Getting Started for an overview on how Figma is used for Streetscape. 
