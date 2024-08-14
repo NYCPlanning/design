@@ -47,6 +47,9 @@ Other sources to look into include:
 
 We created wireframes of how the PLUTO README should be displayed. Wireframes live in `Data Engineering + Design` Figma project space. DE is currently investigating on exporting the CSS styles from Figma to be implemented.
 
+> [!NOTE]
+> For styling, local styles are used for typography since Streetscape's current typography library is more scaled for web applications.
+
 - [Wireframes](https://www.figma.com/design/TrZT5EEaomB8NxOTkAqT7G/Metadata-Redesign?node-id=0-1&t=tp8SZPVFnWeWPzVr-1)
 - [Figma API Doc](https://www.figma.com/developers/api)
 
