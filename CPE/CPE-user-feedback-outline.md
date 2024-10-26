@@ -57,13 +57,15 @@ Here is an outline of the survey format:
 
 1. Would you like to participate in a usability study or interview about your experience with CPE?
 
-> [!NOTE] Something to look into is the [Community Compensation Fund](https://medium.com/nyc-opportunity/engage-nyc-residents-meaningfully-with-the-community-compensation-fund-74c3b5834644) for individuals willing to participate in usability testing.
+> [!NOTE]
+> Something to look into is the [Community Compensation Fund](https://medium.com/nyc-opportunity/engage-nyc-residents-meaningfully-with-the-community-compensation-fund-74c3b5834644) for individuals willing to participate in usability testing.
 
 ## Usability Testing
 
 The design team would like to conduct usability testing to understand the current usability of CPE.
 
-> [!NOTE] Plans for usability testing listed below are tentative and are subject to change as we evaluate survey data as our first step.
+> [!NOTE]
+> Plans for usability testing listed below are tentative and are subject to change as we evaluate survey data as our first step.
 
 ### Goals
 
@@ -86,7 +88,8 @@ Here is a list of potential tasks we would ask participants:
 
 Determining how much time each stage of the user research phase would take.
 
-> [!NOTE] Timeline is tentative as we are trying to finalize details related to the launch date for CPE.
+> [!NOTE] 
+> Timeline is tentative as we are trying to finalize details related to the launch date for CPE.
 
 Things to consider when accounting for timeline:
 
