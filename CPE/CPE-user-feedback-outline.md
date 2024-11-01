@@ -2,6 +2,23 @@
 
 Outlining the user research process to gather feedback from Capital Planning Explorer's beta launch.
 
+## Timeline
+
+Determining how much time each stage of the user research phase would take.
+
+> [!NOTE]
+> Timeline is tentative as we are trying to finalize details related to the launch date for CPE.
+
+Things to consider when accounting for timeline:
+
+- Determining survey period to collect initial feedback
+- Going through survey feedback with Design and Capital Planning
+- Scheduling interviews with participants
+- Hosting individual interviews
+- Setting up coordination for incentives and follow through with participants
+- Scoring and synthesizing observations from interview
+- Planning next steps after this feedback iteration
+
 ## Survey
 
 Gathering information about our user demographics, overall feedback on previous experience with the older version of CPE, and current thoughts on the beta version.
@@ -20,23 +37,6 @@ The design team plans to launch a user survey to understand the following:
 3. Understanding what criteria is needed for our usability.
 
     > Gathering observations to help construct a scale to gauge the success rate in terms of usability.
-
-## Timeline
-
-Determining how much time each stage of the user research phase would take.
-
-> [!NOTE]
-> Timeline is tentative as we are trying to finalize details related to the launch date for CPE.
-
-Things to consider when accounting for timeline:
-
-- Determining survey period to collect initial feedback
-- Going through survey feedback with Design and Capital Planning
-- Scheduling interviews with participants
-- Hosting individual interviews
-- Setting up coordination for incentives and follow through with participants
-- Scoring and synthesizing observations from interview
-- Planning next steps after this feedback iteration
 
 ### Delivery
 
