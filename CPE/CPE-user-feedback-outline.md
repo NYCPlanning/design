@@ -10,16 +10,33 @@ Gathering information about our user demographics, overall feedback on previous 
 
 The design team plans to launch a user survey to understand the following:
 
-- What are common tasks are users trying to accomplish?
+1. What are common tasks are users trying to accomplish?
     > Figuring out if the new simplified user interface enhances their experience and prompts users to utilize CPE more.
 
-- Users previous experience with the older version of CPE.
+2. Users previous experience with the older version of CPE.
 
     > What were users' pain points? How were these problems addressed? How did users try to accomplish their tasks?
 
-- Understanding what criteria is needed for our usability.
+3. Understanding what criteria is needed for our usability.
 
     > Gathering observations to help construct a scale to gauge the success rate in terms of usability.
+
+## Timeline
+
+Determining how much time each stage of the user research phase would take.
+
+> [!NOTE]
+> Timeline is tentative as we are trying to finalize details related to the launch date for CPE.
+
+Things to consider when accounting for timeline:
+
+- Determining survey period to collect initial feedback
+- Going through survey feedback with Design and Capital Planning
+- Scheduling interviews with participants
+- Hosting individual interviews
+- Setting up coordination for incentives and follow through with participants
+- Scoring and synthesizing observations from interview
+- Planning next steps after this feedback iteration
 
 ### Delivery
 
@@ -69,11 +86,11 @@ The design team would like to conduct usability testing to understand the curren
 
 ### Goals
 
-- Using research methods like System Usability Scale (SUS) to provide a high level score to determine our product's usability
+- Using research methods like System Usability Scale (SUS) to provide a high level score to determine our product's usability.
 
 ### Methods
 
-We plan on to conduct interviews that will take place where we have an participants run through tasks using CPE.
+We plan to conduct interviews where participants will run through tasks using CPE. These interviews would most likely be conducted remotely. Users will share their screens and the interviewer will record observations and ask questions to participants post-task.
 
 Here is a list of potential tasks we would ask participants:
 
@@ -84,19 +101,6 @@ Here is a list of potential tasks we would ask participants:
 - Find the commitment details for a capital project.
 - Export data from a capital project.
 
-## Timeline
+To synthesize our findings, affinity mapping will be used to highlight key insights and themes.
 
-Determining how much time each stage of the user research phase would take.
-
-> [!NOTE] 
-> Timeline is tentative as we are trying to finalize details related to the launch date for CPE.
-
-Things to consider when accounting for timeline:
-
-- Determining survey period to collect initial feedback
-- Going through survey feedback with Design and Capital Planning
-- Scheduling interviews with participants
-- Hosting individual interviews
-- Setting up coordination for incentives and follow through with participants
-- Scoring and synthesizing observations from interview
-- Planning next steps after this feedback iteration
+Additionally, a SUS score wil be calculated to provide a metric on how easy our product was used for our audience. Average SUS score for products tend to score around 68.
