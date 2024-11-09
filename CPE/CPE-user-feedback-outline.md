@@ -92,6 +92,9 @@ The design team would like to conduct usability testing to understand the curren
 
 We plan to conduct interviews where participants will run through tasks using CPE. These interviews would most likely be conducted remotely. Users will share their screens and the interviewer will record observations and ask questions to participants post-task.
 
+> [!IMPORTANT]
+> We should aim to interview about 5 participants to obtain qualitative data through our usability interviews. The goal of obtaining qualitative data is to identify usability issues and about 85% of usability problems can be addressed with a sample size of 5.
+
 Here is a list of potential tasks we would ask participants:
 
 - Search and find a capital project through filtering by Community Districts.
@@ -104,3 +107,6 @@ Here is a list of potential tasks we would ask participants:
 To synthesize our findings, affinity mapping will be used to highlight key insights and themes.
 
 Additionally, a SUS score wil be calculated to provide a metric on how easy our product was used for our audience. Average SUS score for products tend to score around 68.
+
+> [!IMPORTANT]
+> For the sample size for SUS score, ideally we would want to aim for a minimum of 12-14 participants and a goal range of 20-30 participants. Since SUS can be calculated through post interaction with the product, this can be incorporated with the survey that will be sent via launch.
