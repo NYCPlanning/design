@@ -90,10 +90,10 @@ The design team would like to conduct usability testing to understand the curren
 
 ### Methods
 
-We plan to conduct interviews where participants will run through tasks using CPE. These interviews would most likely be conducted remotely. Users will share their screens and the interviewer will record observations and ask questions to participants post-task.
+We plan to conduct interviews where participants will run through tasks using CPE. These interviews would most likely be conducted remotely. The interview most likely will be recorded for reference. There will be an interviewer and observer. Interview will drive by asking questions and leading through the interview while the observer will note down observations.
 
 > [!IMPORTANT]
-> We should aim to interview about 5 participants to obtain qualitative data through our usability interviews. The goal of obtaining qualitative data is to identify usability issues and about 85% of usability problems can be addressed with a sample size of 5.
+> We should aim to interview about 5 participants to obtain qualitative data through our usability interviews. The goal is identify usability issues and about 85% of usability problems can be addressed with a sample size of 5.
 
 Here is a list of potential tasks we would ask participants:
 
@@ -104,9 +104,11 @@ Here is a list of potential tasks we would ask participants:
 - Find the commitment details for a capital project.
 - Export data from a capital project.
 
+We estimate that the time commitment for an interview to take about 30-45 minutes.
+
 To synthesize our findings, affinity mapping will be used to highlight key insights and themes.
 
-Additionally, a SUS score wil be calculated to provide a metric on how easy our product was used for our audience. Average SUS score for products tend to score around 68.
+Additionally, a SUS score wil be calculated to provide a metric on how easy our product was used for our audience. Average SUS score for products tend to score around 68. A SUS is obtained through participants answering a 10 question survey where they rank their answer from a scale of 1-5, from strongly disagree to strongly agree.
 
 > [!IMPORTANT]
 > For the sample size for SUS score, ideally we would want to aim for a minimum of 12-14 participants and a goal range of 20-30 participants. Since SUS can be calculated through post interaction with the product, this can be incorporated with the survey that will be sent via launch.
