@@ -16,6 +16,10 @@ Files that live in the `design` repo.
 
 - [Metadata: Designing User-Friendly Content](https://github.com/NYCPlanning/design/blob/main/metadata.md)
 
+#### `design`/CPE
+The CPE folder contains files related to the Capital Project Explorer.
+- [CPE (beta): User Feedback Outline](https://github.com/NYCPlanning/design/blob/main/CPE/CPE-user-feedback-outline.md)
+
 ### In Figma
 
 Refer to the Getting Started for an overview on how Figma is used for Streetscape. 
