@@ -19,9 +19,23 @@ Things to consider when accounting for timeline:
 - Scoring and synthesizing observations from interview
 - Planning next steps after this feedback iteration
 
+### Estimated Time Commitments
+
+- **Survey Period**: 2 weeks, at the end of Week 1, the design team will check in on responses and begin
+to initiate interviews and organize data.
+
+- **Usability Interviews**: 30-45 minutes per participant, 15 minutes of prep time before interviews for driver and observer to get acclimated.
+    - Total time: 5 hours (5 interviews).
+
 ## Survey
 
 Gathering information about our user demographics, overall feedback on previous experience with the older version of CPE, and current thoughts on the beta version.
+The survey will collect quantitative data to calculate a System Usability Scale (SUS) score
+to determine CPE's usability.
+
+> [!IMPORTANT]
+> The minimum sample size we should aim for the survey should be at least **12-14 participants** 
+> for reliable results.
 
 ### Goals
 
@@ -34,15 +48,19 @@ The design team plans to launch a user survey to understand the following:
 
     > What were users' pain points? How were these problems addressed? How did users try to accomplish their tasks?
 
-3. Understanding what criteria is needed for our usability.
+3. Understanding, from a mixed method user research approach, the usability of CPE.
 
-    > Gathering observations to help construct a scale to gauge the success rate in terms of usability.
+    > **Gathering quantitative data to measure the perceived ease of use for our product** through a SUS evaluation.
 
 ### Delivery
 
 Application Engineering has offered to add a banner on CPE to promote the survey for the friends and family launch.
+Estimated turn around to create pop-up should take about 1-2 days.
 
 ### Outline
+
+> [!NOTE]
+> Updated survey questions are on Alchemer.
 
 Here is an outline of the survey format:
 
@@ -74,26 +92,28 @@ Here is an outline of the survey format:
 
 1. Would you like to participate in a usability study or interview about your experience with CPE?
 
-> [!NOTE]
-> Something to look into is the [Community Compensation Fund](https://medium.com/nyc-opportunity/engage-nyc-residents-meaningfully-with-the-community-compensation-fund-74c3b5834644) for individuals willing to participate in usability testing.
 
 ## Usability Testing
 
 The design team would like to conduct usability testing to understand the current usability of CPE.
 
-> [!NOTE]
-> Plans for usability testing listed below are tentative and are subject to change as we evaluate survey data as our first step.
+> [!IMPORTANT]
+> We should aim for a sample size of 5 participants for interviews for this initial round of feedback.
 
 ### Goals
 
-- Using research methods like System Usability Scale (SUS) to provide a high level score to determine our product's usability.
+1. Understanding, from a mixed method user research approach, the usability of CPE.
+
+    > **Gathering qualitative data to highlight usability problems** our product through user interviews.
 
 ### Methods
 
-We plan to conduct interviews where participants will run through tasks using CPE. These interviews would most likely be conducted remotely. The interview most likely will be recorded for reference. There will be an interviewer and observer. Interview will drive by asking questions and leading through the interview while the observer will note down observations.
+We plan to conduct interviews where participants will run through tasks using CPE. These interviews would be conducted remotely. The interview most likely will be recorded for reference. 
+There will be an interviewer and observer. Interview will drive by asking questions and leading through the interview while the observer will transcribing observations.
 
 > [!IMPORTANT]
-> We should aim to interview about 5 participants to obtain qualitative data through our usability interviews. The goal is identify usability issues and about 85% of usability problems can be addressed with a sample size of 5.
+> We should aim to interview about 5 participants, about 85% of usability problems can be addressed with a sample size of 5.
+> Additionally we should aim to conduct these interviews within the next two months as we are getting survey inputs.
 
 Here is a list of potential tasks we would ask participants:
 
@@ -104,11 +124,14 @@ Here is a list of potential tasks we would ask participants:
 - Find the commitment details for a capital project.
 - Export data from a capital project.
 
-We estimate that the time commitment for an interview to take about 30-45 minutes.
+### Compensation
 
-To synthesize our findings, affinity mapping will be used to highlight key insights and themes.
+The [Community Compensation Fund](https://medium.com/nyc-opportunity/engage-nyc-residents-meaningfully-with-the-community-compensation-fund-74c3b5834644)
+is a fund where City Employees can apply for physical or digital gift cards to distribute
+to participants who are NYC residents to compensate their efforts for participating in City activities. 
 
-Additionally, a SUS score wil be calculated to provide a metric on how easy our product was used for our audience. Average SUS score for products tend to score around 68. A SUS is obtained through participants answering a 10 question survey where they rank their answer from a scale of 1-5, from strongly disagree to strongly agree.
+Specifically for CCF, participants who are not residents who are not actively being paid with a City funded contract are eligible.
 
 > [!IMPORTANT]
-> For the sample size for SUS score, ideally we would want to aim for a minimum of 12-14 participants and a goal range of 20-30 participants. Since SUS can be calculated through post interaction with the product, this can be incorporated with the survey that will be sent via launch.
+> Since the a majority of our demographic for this initial round of user feedback are City Employees
+> we should look into other incentives we can offer.
