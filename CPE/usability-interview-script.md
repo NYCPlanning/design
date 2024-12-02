@@ -7,8 +7,8 @@ The interview will focus on three user goals:
 - Find a Capital Project
 - Learn about details related to a Capital Project
 
-    > [!IMPORTANT]
-    > Research Goal: how easy is it to locate a capital project utilizing the filters or map?
+> [!IMPORTANT]
+> Research Goal: how easy is it to locate a capital project utilizing the filters or map?
 
 ## Set-Up
 
@@ -16,8 +16,8 @@ The interview will focus on three user goals:
 
 - Have the participant read the task description out loud themselves
 
-    > [!TIP]
-    > Since these interviews will be done remotely, you can send the task descriptions one at a time through the chat for the participant to read
+> [!TIP]
+> Since these interviews will be done remotely, you can send the task descriptions one at a time through the chat for the participant to read
 
 - When giving a task, provide participants with all the info they need to complete the task without telling them where to click
 
@@ -69,7 +69,7 @@ The interview will focus on three user goals:
 
 [Send the following task scenario into the chat and have participant read it out loud before they start.]
 
-    > You are trying to find projects in Brooklyn to compare projects commitment values from similar departments. Find a project in Brooklyn.
+    You are trying to find projects in Brooklyn to compare projects commitment values from similar departments. Find a project in Brooklyn.
 
 ## Learn about details related to a Capital Project (Part 1)
 
@@ -80,7 +80,7 @@ The interview will focus on three user goals:
 
 [Send the following task scenario into the chat]
 
-    > Find information related who is in charge of the project and what type of project it is?
+    Find information related who is in charge of the project and what type of project it is?
 
 [User has found who manages the project and project type.]
 [Note down time. Reset timer.]
@@ -89,7 +89,7 @@ The interview will focus on three user goals:
 
 [Send the follow task scenario into the chat.]
 
-    > Can you find information related to contributors to project funding?
+    Can you find information related to contributors to project funding?
 
 [User is able to find information related to commitment details.]
 [Note down time. Reset timer.]
@@ -104,7 +104,7 @@ The interview will focus on three user goals:
 
 [Start timer. Send the following task scenario into the chat]
 
-    > Find a different project in Brooklyn that is managed by the same agency.
+    Find a different project in Brooklyn that is managed by the same agency.
 
 [User had finished task.]
 [Note down time. Reset timer.]
@@ -115,13 +115,13 @@ The interview will focus on three user goals:
 
 [Send the following task scenario into the chat.]
 
-    > Can you find information related to contributors to project funding?
+    Can you find information related to contributors to project funding?
 
 ## Finding a Capital Project (Part 3)
 
 [Send the following task scenario.]
 
-    > You would like to find a similar project in Bronx to compare commitment values. Find a project in the Bronx managed by the same agency as the Brooklyn projects.
+    You would like to find a similar project in Bronx to compare commitment values. Find a project in the Bronx managed by the same agency as the Brooklyn projects.
 
 [User has finished task.]
 
@@ -131,7 +131,7 @@ The interview will focus on three user goals:
 
 [Send the following task scenario into the chat]
 
-    > Can you find information related to contributors to project funding?
+    Can you find information related to contributors to project funding?
 
 [User has completed task. Note down time.]
 
