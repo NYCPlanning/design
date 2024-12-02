@@ -135,7 +135,7 @@ The interview will focus on three user goals:
 
 [User has completed task. Note down time.]
 
-- Good job. That was our final activity. Any comments you would like to make?
+- Good job! That was our final activity. Any comments you would like to make?
 
 [Pause for comments.]
 
