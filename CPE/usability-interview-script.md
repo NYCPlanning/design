@@ -173,7 +173,7 @@ The interview will focus on three user goals:
 
 [Send the following task scenario into the chat]
 
-    You are curious about projects related to Central Park as it has come to your attention there are several projects in the works. Locate a capital project in Central Park.
+    You are curious about projects related to Central Park as it has come to your attention that there are several projects in the works. Locate a capital project in Central Park.
 
 [User has finished task.]
 
