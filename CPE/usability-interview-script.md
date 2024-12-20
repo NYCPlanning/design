@@ -54,7 +54,7 @@ The interview will focus on three user goals:
 - Personal commentary while observing (suggestions, questions, and comments)
 
 > [!NOTE]
-> For the following Finding a Capital Project and Learn about details related to a Capital Project scenarios:
+> *For the following Finding a Capital Project* and *Learn about details related to a Capital Project scenarios*:
 >
 > - *Part 1 & 2* goals are to get users to interact with the district type filter to find a project (point or polygon) and access a selected project to learn more details. Users here are comparing two projects in the same borough.
 > - *Part 3* repeats the same process as *Part 1&2* but focuses on finding a similar project in a different borough.
