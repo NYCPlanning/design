@@ -121,6 +121,16 @@ The interview will focus on three user goals:
 
     Can you find information related to contributors to project funding?
 
+(Follow-up Questions):
+
+    - Can you tell us about the past, present, and future commitments here?
+    - Which sponsor was the largest contributor? Is that commitment in the past, present or future?
+
+(Follow-Up Questions):
+
+- Can you tell us about the past, present, and future commitments here?
+- Which sponsor was the largest contributor? Is that commitment in the past, present or future?
+
 [User is able to find information related to commitment details.]
 [Note down time. Reset timer.]
 
@@ -134,9 +144,10 @@ The interview will focus on three user goals:
 
     You now would like to find a similar project in Bronx to compare commitment values. Find a project in the Bronx related to the Brooklyn project you previously just viewed.
 
-    (Follow-up Questions): 
-    - Could you list the managing agency and project type? 
-    - Why did you select this project to compare with the previous one?
+(Follow-up Questions):
+
+- Could you list the managing agency and project type?
+- Why did you select this project to compare with the previous one?
 
 [User has finished task.]
 
@@ -164,12 +175,19 @@ The interview will focus on three user goals:
 
     You are curious about projects related to Central Park as it has come to your attention that there are several projects in the works. Locate a capital project in Central Park.
 
-    Follow-up Questions:
-    - Why did you select this project?
+Follow-up Questions:
+
+- Why did you select this project?
+- Was it easy for you to decide and choose a project from the map?
 
 [User has finished task.]
 
 - Good job! That was our final activity. Anything else you would like to share?
+
+(Follow-up Questions):
+
+- Which method did you have a preference on the approaches to find a project? (looking at the map first vs using a filter first)
+- Was there any particular moments where you found something difficult to use or understand?
 
 ## Conclusion
 
