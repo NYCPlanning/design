@@ -37,6 +37,9 @@ The interview will focus on three user goals:
 
     > Avoid saying "How might ..." and instead "Find out ..."
 
+> [!TIP]
+> Follow-up questions are to help interviewers break down the task into steps when a participant is stuck. Use to your discretion.
+
 - Keep track of the time when a participant start and end a task
 
 ### Observer
@@ -56,9 +59,8 @@ The interview will focus on three user goals:
 > [!NOTE]
 > *For the following Finding a Capital Project* and *Learn about details related to a Capital Project scenarios*:
 >
-> - *Part 1 & 2* goals are to get users to interact with the district type filter to find a project (point or polygon) and access a selected project to learn more details. Users here are comparing two projects in the same borough.
-> - *Part 3* repeats the same process as *Part 1&2* but focuses on finding a similar project in a different borough.
-> - *Part 4* evaluates how easy it is to locate a project as a point.
+> - *Part 1 & 2* goals are to get users to interact with the district type filter to find a project (point or polygon) and access a selected project to learn more details. Users here are comparing two projects from different boroughs.
+> - *Part 3* evaluates how easy it is to locate a project as a point.
 
 ## Introduction
 
@@ -75,6 +77,7 @@ The interview will focus on three user goals:
 - Before we start, do I have your consent to record today's session?
 
 [Once participant agrees, turn over control for user to share their screen.]
+
 
 ## Warm-up
 
