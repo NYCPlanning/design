@@ -130,29 +130,6 @@ The interview will focus on three user goals:
 
 ## Finding a Capital Project (Part 2)
 
-- Now that we've found one project, we will move on to our next activity. Just a reminder, try to talk out loud on what steps you are currently going though while completing the activity. Please read the following:
-
-[Start timer. Send the following task scenario into the chat]
-
-    Find a different project in Brooklyn. It can be a related to the previous project you were viewing or a unrelated project.
-
-[User had finished task.]
-[Note down time. Reset timer.]
-
-- Thank you for doing that. Any comments before we move on?
-
-[Wait for additional comments.]
-
-[Send the following task scenario into the chat.]
-
-    Can you find information related to the overall commitment amount? How is the timeline related to the commitments? What type of commitments are related to this project?
-
-    (Follow-up Questions): 
-    - Could you list the managing agency and project type? 
-    - Why did you select this particular project?
-
-## Finding a Capital Project (Part 3)
-
 [Send the following task scenario.]
 
     You now would like to find a similar project in Bronx to compare commitment values. Find a project in the Bronx related to the Brooklyn project you previously just viewed.
@@ -165,7 +142,7 @@ The interview will focus on three user goals:
 
 - Great, we're getting good feedback from this. Is there anything else you would like to share?
 
-## Learn about details related to a Capital Project (Part 3)
+## Learn about details related to a Capital Project (Part 2)
 
 [Send the following task scenario into the chat]
 
@@ -181,7 +158,7 @@ The interview will focus on three user goals:
 
 [Pause for comments.]
 
-## Finding a Capital Project (Part 4)
+## Finding a Capital Project (Part 3)
 
 [Send the following task scenario into the chat]
 
