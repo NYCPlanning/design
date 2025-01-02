@@ -145,13 +145,21 @@ The interview will focus on three user goals:
 
 [Send the following task scenario into the chat.]
 
-    Can you find information related to contributors to project funding?
+    Can you find information related to the overall commitment amount? How is the timeline related to the commitments? What type of commitments are related to this project?
+
+    (Follow-up Questions): 
+    - Could you list the managing agency and project type? 
+    - Why did you select this particular project?
 
 ## Finding a Capital Project (Part 3)
 
 [Send the following task scenario.]
 
     You now would like to find a similar project in Bronx to compare commitment values. Find a project in the Bronx related to the Brooklyn project you previously just viewed.
+
+    (Follow-up Questions): 
+    - Could you list the managing agency and project type? 
+    - Why did you select this project to compare with the previous one?
 
 [User has finished task.]
 
@@ -162,6 +170,10 @@ The interview will focus on three user goals:
 [Send the following task scenario into the chat]
 
     Can you find information related to contributors to project funding?
+
+    (Follow-up Questions):
+    - Can you tell us about the past, present, and future commitments here?
+    - Which sponsor was the largest contributor? Is that commitment in the past, present or future?
 
 [User has completed task. Note down time.]
 
@@ -174,6 +186,9 @@ The interview will focus on three user goals:
 [Send the following task scenario into the chat]
 
     You are curious about projects related to Central Park as it has come to your attention that there are several projects in the works. Locate a capital project in Central Park.
+
+    Follow-up Questions:
+    - Why did you select this project?
 
 [User has finished task.]
 
