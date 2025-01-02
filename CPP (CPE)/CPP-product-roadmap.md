@@ -17,7 +17,7 @@ With DCP's vision to provide an accessible and consistent solution by visualizin
 
 ### Live Beta Version
 
-The CPP's current capabilites consists of:
+The CPP's current capabilities consists of:
 
 - locate projects in a map interface represented in polygons and points
 - refining a search by using filtering by an attribute (i.e. Community District, City Council District)
@@ -35,4 +35,9 @@ The CPP's current capabilites consists of:
 
 ### Research Goals
 
-wip
+Our primary goal is to understand whether the usability of CPP is intuitive and easy to use while having the ability to customize to a user's preference to refine their search amongst the diverse range of mapped capital projects.
+
+Therefore, for this phase we will seek to accomplish this goal through the following methods in a mixed method approach:
+
+- gathering quantitative data through a System Usability Scale (SUS) evaluation to gauge the usability of the current CPP's system
+- ...
