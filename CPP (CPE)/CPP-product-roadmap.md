@@ -41,7 +41,7 @@ Therefore, for this phase we will seek to accomplish this goal through the follo
 
 - obtaining quantitative data through a System Usability Scale (SUS) evaluation to gauge the usability of the current CPP's system
 
-  > SUS provides a quick and accurate metric to gauge a system's usability. Average SUS scores tend to range from 60-70 points out of 100, with 80+ being an good score indicating excellent usability. **We aim to gather a minimum of 14 responses to get an 90+% confidence level to have reliable results.**
+  > SUS provides a quick and accurate metric to gauge a system's usability. Average SUS scores tend to range from 60-70 points out of 100, with 80+ being an good score indicating excellent usability. A survey was sent out to collect this data. **We aim to gather a minimum of 14 responses to get an 90+% confidence level to have reliable results.**
 
 - gathering qualitative data through usability testing interviews to pinpoint issues and understand observations from direct feedback
 
