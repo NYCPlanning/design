@@ -86,7 +86,6 @@ We have one GitHub project where all tasks management lives. Each task is a git 
 
 ![alt text](https://github.com/NYCPlanning/design/blob/edit-readme/assets/readme/gitissueexample.png)
 
-> [!TIP]
 > GFM syntax can be used in Git Issues.
 
 General rule of thumb for issues is to outline summarize shortly what task entails along with goals/to-do in the description. For comments that are outdated or resolved, you should have the ability to collapse them to keep a cleaner progress timeline.
