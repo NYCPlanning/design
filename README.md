@@ -1,6 +1,6 @@
 # ![alt text](https://github.com/NYCPlanning/design/blob/edit-readme/assets/readme/nyclogo.png)
 
-A repository for the Design team in the Geographic Data and Engineering team of the NYC Department of City Planning.
+A repository for Design at the Geographic Data and Engineering Team at NYC Department of City Planning.
 
 ## Table of Contents
 
