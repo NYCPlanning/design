@@ -1,4 +1,4 @@
-# Capital Planning Explorer: User Feedback Outline
+# Capital Planning Explorer/Capital Planning Explorer: User Feedback Outline
 
 Outlining the user research process to gather feedback from Capital Planning Explorer's beta launch.
 
@@ -34,7 +34,7 @@ The survey will collect quantitative data to calculate a System Usability Scale 
 to determine CPE's usability.
 
 > [!IMPORTANT]
-> The minimum sample size we should aim for the survey should be at least **12-14 participants** 
+> The minimum sample size we should aim for the survey should be at least **12-14 participants**
 > for reliable results.
 
 ### Goals
