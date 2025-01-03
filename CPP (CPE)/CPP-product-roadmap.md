@@ -45,7 +45,7 @@ Therefore, for this phase we will seek to accomplish this goal through the follo
 
 - gathering qualitative data through usability testing interviews to pinpoint issues and understand observations from direct feedback
 
-  > **We aim to conduct 5 interviews as this amount often reflects 80% of usability issues.** Refer to the [usability script](https://github.com/NYCPlanning/design/blob/c3a3310dee2197da668bb706d862ccc5da907359/CPP%20(CPE)/usability-interview-script.md) for more details.
+  > **We aim to conduct 5 interviews as this amount often reflects 80% of usability issues.** We will be concentrating on time on task, task success and general commentary. Refer to the [usability script](https://github.com/NYCPlanning/design/blob/c3a3310dee2197da668bb706d862ccc5da907359/CPP%20(CPE)/usability-interview-script.md) for more details.
 
 **This research phase will be conducted during Q1 2025.**
 
