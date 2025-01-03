@@ -4,10 +4,6 @@ A repository for the Design team in the Geographic Data and Engineering team of 
 
 ## Table of Contents
 
-### In this `design` repo
-
-Files that live in the `design` repo.
-
 ### `design`/streetscape
 
 Files related to Streetscape, our design system.
