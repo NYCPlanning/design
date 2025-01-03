@@ -8,23 +8,37 @@ A repository for the Design team in the Geographic Data and Engineering team of 
 
 Files that live in the `design` repo.
 
+### `design`/streetscape
+
+Files related to Streetscape, our design system.
+
 - [Streetscape: Foundational Building Blocks Overview](https://github.com/NYCPlanning/design/blob/main/streetscape-foundation-overview.md)
 
 - [Streetscape + Storybook Installation Guide](https://github.com/NYCPlanning/design/blob/main/streetscape-storybook-installation-guide.md)
 
 - [Storybook Designs Plug-In Guide](https://github.com/NYCPlanning/design/blob/main/storybook-designs-plugin-guide.md)
 
-- [Metadata: Designing User-Friendly Content](https://github.com/NYCPlanning/design/blob/main/metadata.md)
+#### In Figma
 
-#### `design`/CPE
-The CPE folder contains files related to the Capital Project Explorer.
-- [CPE (beta): User Feedback Outline](https://github.com/NYCPlanning/design/blob/main/CPE/CPE-user-feedback-outline.md)
-
-### In Figma
-
-Refer to the Getting Started for an overview on how Figma is used for Streetscape. 
+Refer to the Getting Started for an overview on how Figma is used for Streetscape.
 
 - [Streetscape: Getting Started](https://www.figma.com/design/mfEZjCGYOX49VKyptVDLG6/Getting-Started?node-id=0-1&t=NCfWTwVqMCMt1hen-1)
+
+### `design`/metadata
+
+Files related to our designs to create digestable metadata with Data Engineering.
+
+- [Metadata: Designing User-Friendly Content](https://github.com/NYCPlanning/design/blob/main/metadata.md)
+
+#### `design`/CPP
+
+Files related to the Capital Planning Portal (CPP).
+
+- [CPE (beta): User Feedback Outline](https://github.com/NYCPlanning/design/blob/main/CPE/CPE-user-feedback-outline.md)
+
+- [CPP Product Roadmap](https://github.com/NYCPlanning/design/blob/main/CPP%20(CPE)/CPP-product-roadmap.md)
+
+- [CPP Usability Interview Procedures and Script](https://github.com/NYCPlanning/design/blob/main/CPP%20(CPE)/usability-interview-script.md)
 
 ## Design Glossary
 

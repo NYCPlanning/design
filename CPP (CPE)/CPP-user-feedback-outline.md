@@ -108,7 +108,7 @@ The design team would like to conduct usability testing to understand the curren
 
 ### Methods
 
-We plan to conduct interviews where participants will run through tasks using CPE. These interviews would be conducted remotely. The interview most likely will be recorded for reference. 
+We plan to conduct interviews where participants will run through tasks using CPE. These interviews would be conducted remotely. The interview most likely will be recorded for reference.
 There will be an interviewer and observer. Interview will drive by asking questions and leading through the interview while the observer will transcribing observations.
 
 > [!IMPORTANT]
