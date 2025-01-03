@@ -22,7 +22,7 @@ Refer to the Getting Started for an overview on how Figma is used for Streetscap
 
 ### `design`/metadata
 
-Files related to our designs to create digestable metadata with Data Engineering.
+Files related to our designs to create digestible metadata with Data Engineering.
 
 - [Metadata: Designing User-Friendly Content](https://github.com/NYCPlanning/design/blob/main/metadata.md)
 
