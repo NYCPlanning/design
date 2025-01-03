@@ -26,7 +26,7 @@ Files related to our designs to create digestable metadata with Data Engineering
 
 - [Metadata: Designing User-Friendly Content](https://github.com/NYCPlanning/design/blob/main/metadata.md)
 
-#### `design`/CPP
+### `design`/CPP
 
 Files related to the Capital Planning Portal (CPP).
 
