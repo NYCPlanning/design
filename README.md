@@ -70,7 +70,6 @@ Our GitHub repository and project (git issues) serves as a source of truth for d
 
 Edits to existing files should be done in their respective branches before pushing those changes to the `main` branch. For example, if I edit the design readme, I would go to `edit-readme` branch and create my changes here. Once changes are ready, create a pull request and if the changes are good to go, merge to `main`.
 
-> [!IMPORTANT]
 > Currently, we are using Pull Requests as our changelog to things related in `design`.
 > ![alt text](https://github.com/NYCPlanning/design/blob/edit-readme/assets/readme/prexample.png)
 
