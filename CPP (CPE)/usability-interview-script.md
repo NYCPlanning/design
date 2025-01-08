@@ -82,7 +82,7 @@ The interview will focus on three user goals:
 ## Warm-up
 
 - Before we start with our activities, I will give some background information related to CPP.
-- Our goal today is to test the usability of the current version CPP. This is not a test of your abilities but rather what discover insights about our product.
+- Our goal today is to test the usability of the current version CPP. This is not a test of your abilities but rather discover insights about our product.
 - Now that we shared some context, we were wondering what is your occupation and how did you find about the family and friends launch?
 
 [Participant shares their occupation and reasons on why they are participating in the beta launch.]
@@ -102,7 +102,7 @@ The interview will focus on three user goals:
 
 [Send the following task scenario into the chat and have participant read it out loud before they start.]
 
-    You are trying to find projects in Brooklyn to compare projects commitment values from similar departments. Find a project in Brooklyn.
+    You are trying to learn more about projects related Parks and Recreation in the Brooklyn area. Locate one project in Brooklyn that is related to Parks and Recreation.
 
 ## Learn about details related to a Capital Project (Part 1)
 
@@ -113,7 +113,7 @@ The interview will focus on three user goals:
 
 [Send the following task scenario into the chat]
 
-    Find information related who is in charge of the project and what type of project it is?
+    Find information related to who manages the project.
 
 [User has found who manages the project and project type.]
 [Note down time. Reset timer.]
@@ -122,19 +122,15 @@ The interview will focus on three user goals:
 
 [Send the follow task scenario into the chat.]
 
-    Can you find information related to contributors to project funding?
+    Find information related to contributors to project funding?
 
 (Follow-up Questions):
 
     - Can you tell us about the past, present, and future commitments here?
     - Which sponsor was the largest contributor? Is that commitment in the past, present or future?
 
-(Follow-Up Questions):
-
-- Can you tell us about the past, present, and future commitments here?
-- Which sponsor was the largest contributor? Is that commitment in the past, present or future?
-
 [User is able to find information related to commitment details.]
+
 [Note down time. Reset timer.]
 
 - Thank you, that was helpful! Do you have any comments about these activities so far?
@@ -145,7 +141,7 @@ The interview will focus on three user goals:
 
 [Send the following task scenario.]
 
-    You now would like to find a similar project in Bronx to compare commitment values. Find a project in the Bronx related to the Brooklyn project you previously just viewed.
+    There is a future capital project related to a new field being created at a park in Bronx. Locate the project about Harris Park.
 
 (Follow-up Questions):
 
