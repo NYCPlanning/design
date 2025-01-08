@@ -132,9 +132,9 @@ The interview will focus on three user goals:
 
 (Follow-up Questions):
 
-    - Can you tell us about the past, present, and future commitments here?
+- Can you tell us about the past, present, and future commitments here?
 
-    - Which sponsor was the largest contributor? Is that commitment in the past, present or future?
+- Which sponsor was the largest contributor? Is that commitment in the past, present or future?
 
 [User is able to find information related to commitment details.]
 
