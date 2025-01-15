@@ -51,15 +51,21 @@ Therefore, for this phase we will seek to accomplish this goal through the follo
 
 ## Future Phase: Additional Filter Features
 
-The current build of CPP provides a foundation for general searching. To enhance this experience, additional features that have been requested are filtering by project type, total commitments amount, and managing agency to help users refine their search. [Desktop wireframes are avaliable in Figma.](https://www.figma.com/design/LYHHoPop9l0jpEivk5CFzJ/Capital-Projects-Portal?node-id=2728-6859&t=AdKOMXezsSae0dNG-1)
+The current build of CPP provides a foundation for general searching. To enhance this experience, additional features that have been requested are filtering by project type, total commitments amount, and managing agency to help users refine their search.
+
+[Desktop wireframes are avaliable in Figma.](https://www.figma.com/design/LYHHoPop9l0jpEivk5CFzJ/Capital-Projects-Portal?node-id=2728-6859&t=AdKOMXezsSae0dNG-1)
 
 ![alt text](image-4.png)
 *Hi-Fi desktop wireframe of all three additional filters.*
 
 Application Engineering will be working on these features in Q1. The following user stories were created to guide their implementation:
 
+- [User Story: Search by Attribute: Resetting Filters](https://github.com/NYCPlanning/ae-cp-map/issues/139)
 - [User Story: Search by Attribute: Managing Agency](https://github.com/NYCPlanning/ae-cp-map/issues/126)
 - [User Story: Search by Attribute: Project Type](https://github.com/NYCPlanning/ae-cp-map/issues/127)
 - [User Story: Search by Attribute: Project Amount](https://github.com/NYCPlanning/ae-cp-map/issues/128)
 
 **This phase will occur later in Q1 2025 and has the potential to change once our analysis is complete from our research phase.**
+
+> [!NOTE]
+> After feedback from our pilot interview, we decided to create a user story related to the ability to reset filters. The ability to clear filtering was brought up when a user was unable to deselect their current options to look at other projects outside their filtered range.
