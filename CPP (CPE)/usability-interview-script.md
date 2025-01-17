@@ -78,6 +78,10 @@ The interview will focus on three user goals:
 
 [Once participant agrees, turn over control for user to share their screen.]
 
+- Here is the link to the Capital Projects Portal.
+
+> https://capitalprojects.nycplanningdigital.com/
+
 ## Warm-up
 
 - Before we start with our activities, I will give some background information on our goal with the interview.
